@@ -1,35 +1,81 @@
+<!-- OVERALL COMMENTS
+  - Most of my comments can be found in situ denoted by the "COMMENT" tag. Many of these you can extrapolate and apply elsewhere across your file and other files.
+  - Coaching Moves: See my in situ comments mainly, but overall I note how to consider some different verbs as a means to revision for concision, as well as how to move some step info into alerting moves/formatting.
+  - Alerting Moves: 
+    - Be consistent in your delivery/formatting. While we did not spend a lot of time with Markdown's styling capabilities, you had varied approaches and names for your alerting moves. When you complete your draft, review it for the different types of alerts, then you can account for them and make sure they are all consistent across the docs.
+  - Figures/Images: You should crop some images that do not need to be full screen UI in size. For example, with the character creation, if you provide an initial UI context in a prior step, you can then use cropped versions in reference to particular UI controls, like the respective name fields for the character and farm. 
+-->
 # Creating a New Save in Stardew Valley
 
 Part of the charm of Stardew Valley is the ability to customize your farm to your liking, however with little to no direction the character creation and farm selection process can be a bit intimidating. This set of instructions aims to demystify this process so that you can have the character and farm set from the get go!
 
-There is no set order that these steps need to be completed in, the following order is just a suggestion. Alterations can be made at anytime.
+There is no set order that these steps need to be completed in, the following order is just a suggestion. Alterations can be made at anytime. <!--Is this last statement correct? YOu note in places how you cannot change it after setting it. -->
 
-> **Note:** This tutorial is intended only for a single player game of Stardew Valley Version 1.6 on PC.
+<!-- > **Note:** This tutorial is intended only for a single player game of Stardew Valley Version 1.6 on PC. -->
 
 ## Pre-Requisites
-* Must have[Steam](https://store.steampowered.com/) installed, and be signed in
-* Must have Stardew Valley in your Steam Library
-  * This means that you have purchased, or were gifted the game
-* Have Stardew Valley 1.6 installed
+<!-- COMMENT: 
+  Simplified your content a bit.
+  - Removed the above note, as it is a prereq, and
+  - Removed aspects that can be assumed, such as installation. If someone is seeking a tutorial about X, can I assume that they have completed some steps (installed SDV) and have some software (e.g., Steam).
+-->
+* Stardew Valley Version 1.6 on PC
   * While this tutorial can be used for other versions of Stardew Valley, certain options and features may be different or not available at
+* Single-player mode
+<!-- * Must have[Steam](https://store.steampowered.com/) installed, and be signed in -->
+<!-- * Must have Stardew Valley in your Steam Library
+  * This means that you have purchased, or were gifted the game -->
+<!-- * Have Stardew Valley 1.6 installed
+  * While this tutorial can be used for other versions of Stardew Valley, certain options and features may be different or not available at -->
 
-## Naming and Required Set-Up
-1. Launch Stardew Valley, and select the left-most button labeled "New" from the start menu. You will be brought to the character and farm creation page shown below.  <img src="assets\images\screenshots\full-starting-screen-capture.png" alt="Default Stardew Valley character and farm creation page" style="width: 700px">
-> **Note:** If you are not interested in customization, you can begin play after filling in the name, farm name, and favorite thing. Once completed the "OK" button in the bottom right corner will become available, and you can click this button to start game play.
-> 
-> **Warning:** Once you start game play you will be unable to make alterations to your farm and character, except with the Shrine of Illusions. *See "Altering Options in Game" later in this the tutorial for more information.*
-1. Type the name you want for your character into the "Name" field. This is the name that your character will have for the entire game, and will be how the NPCs refer to you.
-    <img src="assets\images\screenshots\name-entered.png" alt="Alex has been added to the name field of the default character and farm creation page" style="width: 700px"> 
-2. Type the name you want for your farm into the "Farm Name" field.    
+<!-- COMMENT:
+  - Note the slight changes for clarity.
+    - Issue: Title suggests naming is not required
+    - Possible Solution: Revised title and paragraph now work together to clarify that the three listed traits are required.
+-->
+<!-- ## Naming and Required Set-Up -->
+## Create Required Character Traits
+
+<!-- You can skip character customization and begin play after filling in the name, farm name, and favorite thing. -->
+You can skip character customization and begin play after filling in the required character traits: name, farm name, and favorite thing.
+
+**Warning:** Once you start game play you will be unable to make alterations to your farm and character, except with the Shrine of Illusions. *See [Altering Options in Game](#) for more information.*
+<!-- COMMENT: 
+  Note the restructuring, which is more Markdown related
+-->
+<!-- 1. Launch Stardew Valley, and select the left-most button labeled "New" from the start menu. You will be brought to the character and farm creation page shown below. -->
+1. Launch Stardew Valley, and click **New** on the top-left corner. You will be brought to the character and farm creation page shown below.
+  <img src="assets\images\screenshots\full-starting-screen-capture.png" alt="Default Stardew Valley character and farm creation page" style="width: 700px">
+  <!-- COMMENT: 
+    Is this a step result, or is that red X the new button? It's unclear, unless you already have played the game. (I haven't. Ahhh! I feel bad about that. lol)
+
+    That said, I sense that its best to provide the New button here, rather than the step result on the first step.
+  -->
+  <!-- * **Note:** If you are not interested in customization, you can begin play after filling in the name, farm name, and favorite thing. Once completed the "OK" button in the bottom right corner will become available, and you can click this button to start game play. -->
+  <!-- >  -->
+  <!-- * **Warning:** Once you start game play you will be unable to make alterations to your farm and character, except with the Shrine of Illusions. *See "Altering Options in Game" later in this the tutorial for more information.* -->
+
+<!-- 1. Type the name you want for your character into the "Name" field. This is the name that your character will have for the entire game, and will be how the NPCs refer to you. -->
+<!-- COMMENT:
+  - Coaching verbs can be unassuming in their nuance. Note how even Type vs. Enter can (1) be slightly more specific, and (2) help simplify the overall action to create a more concise step.
+  - Also, be sure to separate those alerting moves more consistently throughout
+  - Apply this feedback throughout
+-->
+2. Enter your character's name into the "Name" field. 
+  * **Warning**: Your cannot change your character's name.
+  <img src="assets\images\screenshots\name-entered.png" alt="Alex has been added to the name field of the default character and farm creation page" style="width: 700px"> 
+3. Type the name you want for your farm into the "Farm Name" field.    
     <img src="assets\images\screenshots\farm-name-entered.png" alt="Daisy Day has been added to the farm name field of the default character and farm creation page" style="width: 700px"> 
-3. Add in something to serve as your favorite thing. Your favorite thing has no impact on game play, but is simply a way for you to add another level of personality to your character! 
+4. Add in something to serve as your favorite thing. Your favorite thing has no impact on game play, but is simply a way for you to add another level of personality to your character! 
     <img src="assets\images\screenshots\favorite-thing-entered.png" alt="Apple pie has been added to the favorite thing field of the default character and farm creation page" style="width: 700px"> 
-4. Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.
+5. Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.
 
 ## Selecting a Farm Type
 There are eight different farm settings available to choose from in Stardew Valley 1.6.
 
-
+<!-- COMMENT:
+  - This list is fine for the purposes of this assignment, but I would have recommended a reference table with a description/summary column next to a "Type of Farm" column.
+-->
 **The Farm types are as follows:**
    * Standard Farm
    * Beach Farm
@@ -60,14 +106,16 @@ Designing your character is the portion of the set-up process with the most cust
 1. Choose the character’s sex. It is best to select this first as the clothing and hair styles will change if you decide to switch the sex of your character later.
    > While selecting a character's sex will change the starting selections for the character's hair and outfit, all preset options are available regardless of the character's sex.
 
-2. Click the arrows to flip through all set appearance options for:
-   * Skin color
-   * Hair style
-   * Shirt
-   * Pants
-   * Accents
+2. Click the arrows to flip through all set appearance options for **Skin Color**, **Hair Style**, **Shirt**, **Pants**, and **Accents**.
+  <img src="assets\images\screenshots\preset-options.png" alt="This is the list of preset options for character elements. All are set to default option 1." style="width: 300px">
 
-<img src="assets\images\screenshots\preset-options.png" alt="This is the list of preset options for character elements. All are set to default option 1." style="width: 300px"> 
+    <!-- * Skin color
+    * Hair style
+    * Shirt
+    * Pants
+    * Accents
+
+      <img src="assets\images\screenshots\preset-options.png" alt="This is the list of preset options for character elements. All are set to default option 1." style="width: 300px">  -->
 
 The number in the middle of the arrows will change to indicate which option you have selected.
 
