@@ -1,7 +1,7 @@
 <!--
    - See my notes in the other procedure file and apply here.
 -->
-# Planting and Harvesting Crops in Stardew Valley 1.6
+# Farming Spring Crops in Stardew Valley 1.6
 
 In the early stages of the game, farming and selling crops is the best way to build your income. This tutorial will walk through all the necessary steps for farming crops from seed to selling.
 
