@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_enter_unique_id_here">
+  <title>Spring Crops</title>
+  <shortdesc>
+There are a variety of crops that are plantable and harvestable in the spring season.
+  </shortdesc>
+  <refbody>
+    <simpletable>
+        <sthead>
+          <stentry>Crop Name</stentry>
+          <stentry>Seed Price</stentry>
+          <stentry>Days to Grow</stentry>
+          <stentry>Maximum Harvests per Season</stentry>
+          <stentry>Sell Price</stentry>
+        </sthead>
+        <strow>
+          <stentry>Blue Jazz</stentry>
+          <stentry>30g</stentry>
+          <stentry>7 Days</stentry>
+          <stentry>3</stentry>
+          <stentry>50g</stentry>
+        </strow>
+        <strow>
+          <stentry>Cauliflower</stentry>
+          <stentry>80g</stentry>
+          <stentry>12 Days</stentry>
+          <stentry>2</stentry>
+          <stentry>175g</stentry>
+        </strow>
+        <strow>
+          <stentry>Garlic</stentry>
+          <stentry>40g</stentry>
+          <stentry>4 Days</stentry>
+          <stentry>6</stentry>
+          <stentry>60g</stentry>
+        </strow>
+        <strow>
+          <stentry>Kale</stentry>
+          <stentry>70g</stentry>
+          <stentry>6 Days</stentry>
+          <stentry>4</stentry>
+          <stentry>110g</stentry>
+        </strow>
+        <strow>
+          <stentry>Parsnip</stentry>
+          <stentry>20g</stentry>
+          <stentry>4 Days</stentry>
+          <stentry>6</stentry>
+          <stentry>35g</stentry>
+        </strow>
+        <strow>
+          <stentry>Potato</stentry>
+          <stentry>50g</stentry>
+          <stentry>6 Days</stentry>
+          <stentry>4</stentry>
+          <stentry>80g</stentry>
+        </strow>
+        <strow>
+          <stentry>Rhubarb</stentry>
+          <stentry>100g (Only puchased in Oasis)</stentry>
+          <stentry>13 Days</stentry>
+          <stentry>2</stentry>
+          <stentry>220g</stentry>
+        </strow>
+        <strow>
+          <stentry>Tulip</stentry>
+          <stentry>20g</stentry>
+          <stentry>6 Days</stentry>
+          <stentry>4</stentry>
+          <stentry>30g</stentry>
+        </strow>
+        <strow>
+          <stentry>Unmilled Rice</stentry>
+          <stentry>40g</stentry>
+          <stentry>Irrigated: 6 Unirrigated:8 </stentry>
+          <stentry>Irrigated: 4 Unirrigated: 3</stentry>
+          <stentry>30g</stentry>
+        </strow>
+        <strow>
+          <stentry>Carrot</stentry>
+          <stentry>0g</stentry>
+          <stentry>3 Days</stentry>
+          <stentry>9</stentry>
+          <stentry>35g</stentry>
+        </strow>
+     </simpletable>
+  </refbody>
+</reference>
