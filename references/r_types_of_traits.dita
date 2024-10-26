@@ -8,28 +8,59 @@ Some traits are required to start the game, some are not.
   <refbody>
     <simpletable>
       <sthead>
-        <stentry>Required Traits</stentry>
-        <stentry>Optional Traits</stentry>
+        <stentry>Trait</stentry>
+        <stentry>Optional Trait or Required?</stentry>
+        <stentry>Changeable in Game?</stentry>
       </sthead>
       <strow>
         <stentry>Name</stentry>
-        <stentry>Skin Color</stentry>
+        <stentry>Required</stentry>
+        <stentry>Yes</stentry>
       </strow>
       <strow>
         <stentry>Farm Name</stentry>
-        <stentry>Hair Style</stentry>
+        <stentry>Required</stentry>
+        <stentry>No</stentry>
+      </strow>
+      <strow>
+        <stentry>Farm Type</stentry>
+        <stentry>Required</stentry>
+        <stentry>No</stentry>
       </strow>
       <strow>
         <stentry>Favorite Thing</stentry>
+        <stentry>Required</stentry>
+        <stentry>Yes</stentry>
+      </strow>
+      <strow>
+        <stentry>Skin Color</stentry>
+        <stentry>Optional</stentry>
+        <stentry>Yes</stentry>
+      </strow>
+      <strow>
+        <stentry>Hairstyle</stentry>
+        <stentry>Optional</stentry>
+        <stentry>Yes</stentry>
+      </strow>
+      <strow>
         <stentry>Shirt</stentry>
+        <stentry>Optional</stentry>
+        <stentry>Yes</stentry>
       </strow>
       <strow>
-        <stentry> </stentry>
         <stentry>Pants</stentry>
+        <stentry>Optional</stentry>
+        <stentry>Yes</stentry>
       </strow>
       <strow>
-        <stentry> </stentry>
         <stentry>Accents</stentry>
+        <stentry>Optional</stentry>
+        <stentry>Yes</stentry>
+      </strow>
+      <strow>
+        <stentry>Sex</stentry>
+        <stentry>Optional</stentry>
+        <stentry>Yes</stentry>
       </strow>
     </simpletable>
   </refbody>
