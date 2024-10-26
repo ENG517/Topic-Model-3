@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_types_of_farm_maps">
+  <title>Types of Farms</title>
+  <shortdesc>
+    There are 8 different farm maps that you can choose from when you create a new save. Each farm offers different benefits that help with the development of their associated skill.
+  </shortdesc>
+  <refbody>
+    <simpletable>
+      <sthead>
+        <stentry>Name</stentry>
+        <stentry>Map</stentry>
+        <stentry>Description</stentry>
+        <stentry>Associated Skill</stentry>
+      </sthead>
+      <strow>
+        <stentr>Standard Farm</stentr>
+        <stentry> <image href="assets\images\standard-farm-map.png"><alt>Map thumbnail for the standard farm.</alt></image>></image></stentry>
+        <stentry>The majority of this land is farmable land, ideal for raising crops and animals. There are two small ponds on the farm, but they are not fishable.</stentry>
+        <stentry>Farming</stentry>
+      </strow>
+       <strow>
+        <stentr>Riverland Farm</stentr>
+        <stentry> <image href="assets\images\riverland-farm-map.png"><alt>Map thumbnail for the riverland farm.</alt></image>></image></stentry>
+        <stentry></stentry>
+        <stentry></stentry>
+      </strow>
+       <strow>
+        <stentr></stentr>
+        <stentry> <image href=><alt>Map thumbnail for</alt></image>></image></stentry>
+        <stentry></stentry>
+        <stentry></stentry>
+      </strow>
+       <strow>
+        <stentr></stentr>
+        <stentry> <image href=><alt>Map thumbnail for</alt></image>></image></stentry>
+        <stentry></stentry>
+        <stentry></stentry>
+      </strow>
+       <strow>
+        <stentr></stentr>
+        <stentry> <image href=><alt>Map thumbnail for</alt></image>></image></stentry>
+        <stentry></stentry>
+        <stentry></stentry>
+      </strow>
+       <strow>
+        <stentr></stentr>
+        <stentry> <image href=><alt>Map thumbnail for</alt></image>></image></stentry>
+        <stentry></stentry>
+        <stentry></stentry>
+      </strow>
+       <strow>
+        <stentr></stentr>
+        <stentry> <image href=><alt>Map thumbnail for</alt></image>></image></stentry>
+        <stentry></stentry>
+        <stentry></stentry>
+      </strow>
+       <strow>
+        <stentr></stentr>
+        <stentry> <image href=><alt>Map thumbnail for</alt></image>></image></stentry>
+        <stentry></stentry>
+        <stentry></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>
