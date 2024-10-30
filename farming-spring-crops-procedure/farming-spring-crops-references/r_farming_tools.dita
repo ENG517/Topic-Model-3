@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_farming_tools">
+  <title>Farming Tools</title>
+  <shortdesc>There are a variety of different tools needed to accomplish different farming tasks.</shortdesc>
+  <refbody>
+    <simpletable>
+      <sthead>
+        <stentry>Name</stentry>
+        <stentry>Function</stentry>
+        <stentry>When to Use</stentry>
+      </sthead>
+      <strow>
+        <stentry>Axe</stentry>
+        <stentry>Cuts down trees and breaks down logs.</stentry>
+        <stentry>Preparing land and planting seeds</stentry>
+      </strow>
+      <strow>
+        <stentry>Pickaxe</stentry>
+        <stentry>Breaks down rocks.</stentry>
+        <stentry>Preparing land and planting seeds</stentry>
+      </strow>
+      <strow>
+        <stentry>Scythe</stentry>
+        <stentry>Cuts down grass, weeds, young trees, moss, and some crops.</stentry>
+        <stentry>Preparing land and planting seeds; Harveting Crops</stentry>
+      </strow>
+      <strow>
+        <stentry>Hoe</stentry>
+        <stentry>Tills land so that seeds can be planted</stentry>
+        <stentry>Preparing land and  planting seeds</stentry>
+      </strow>
+      <strow>
+        <stentry>Watering Can</stentry>
+        <stentry>Pours water on the ground to water plants.</stentry>
+        <stentry>Preparing land and planting seeds; Maintaining Crops</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>
