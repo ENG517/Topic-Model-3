@@ -7,6 +7,7 @@ In order for your crops to grow, they must be watered on a daily basis until the
   </shortdesc>
   <taskbody>
     <prereq>You will need a watering can, which was provided at the start of the game, to water your crops.</prereq>
+    <context>You do not need to water your crops on days where it is raining.</context>
     <steps>
       <stepsection>Filling Watering Can</stepsection>
       <step>
