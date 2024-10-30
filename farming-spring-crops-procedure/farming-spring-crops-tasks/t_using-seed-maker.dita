@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_enter_unique_id_here">
-  <title></title>
+<task id="t_using_seed_maker">
+  <title>Using the Seed Maker</title>
   <shortdesc>
-
+    If you have played through a few seasons in the game you will gain access to the seed maker. This machine will allow you to create seeds from existing crops at no extra cost.
   </shortdesc>
   <taskbody>
-
+  <prereq>You must already have at least one fully grown version of your desired crop to turn into seeds.</prereq>
+  <steps>
+    <step>
+      <cmd>Equip one or more of the crop you wish to turn into seeds.</cmd>
+    </step>
+    <step>
+      <note> Caution: If you have a stack of crops equipped all of them will be converted into seeds.</note>
+     <cmd>Right click to place them in the seed maker.</cmd>
+    </step>
+    <step>
+      <note>After a few moments a pop up will appear over the seed maker with an image of the crop seeds you just crafted. This means that all the seeds are ready to be collected.</note>
+      <cmd>Left-click to collect finished seeds.</cmd>
+    </step>
+  </steps>
   </taskbody>
 </task>
