@@ -1,6 +1,6 @@
 
 **TBH this could probably be split even further** 
-## Acquiring Seeds
+## Buying Seeds
 Before you can plant any crops, you must first have the seeds for the desired crop. There are three different ways to acquire seeds:
 ### Method 1: Pierre's General Store (Recommended)
 Pierre's General Store has the best prices for seeds from the start of the game, so it is the best option for early game farming.
