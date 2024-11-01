@@ -9,48 +9,36 @@
     <simpletable>
       <sthead>
         <stentry>Name</stentry>
-        <stentry>Map</stentry>
-        <stentry>Description</stentry>
         <stentry>Tillable Tiles</stentry>
         <stentry>Build Only Tiles</stentry>
         <stentry>Associated Skill</stentry>
       </sthead>
       <strow>
         <stentry>Standard Farm</stentry>
-        <stentry> <image href="assets/images/standard-farm-map.png"><alt>Map thumbnail for the standard farm.</alt></image></stentry>
-        <stentry>The majority of this land is farmable land, ideal for raising crops and animals. There are two small ponds on the farm, but they are not fishable.</stentry>
         <stentry>3427</stentry>
         <stentry>235</stentry>
         <stentry>Farming</stentry>
       </strow>
        <strow>
         <stentry>Riverland Farm</stentry>
-        <stentry> <image href="assets/images/riverlands-farm-map.png"><alt>Map thumbnail for the riverland farm.</alt></image></stentry>
-        <stentry>A river runs through the farm land, decreasing the amount of total land tiles, but players are now able to catch fish on the farm land.</stentry>
         <stentry>1578</stentry>
         <stentry>516</stentry>
         <stentry>Fishing</stentry>
       </strow>
        <strow>
         <stentry>Forest Farm</stentry>
-        <stentry> <image href="assets/images/forest-farm-map.png"><alt>Map thumbnail for the forest farm.</alt></image></stentry>
-        <stentry>The farm is bordered by trees and there are berry bushes that spawn on the land. Unique weeds that always drop mixed seeds also grow on this farm.</stentry>
         <stentry>1413</stentry>
         <stentry>1490</stentry>
         <stentry>Foraging</stentry>
       </strow>
        <strow>
         <stentry>Hill-Top Farm</stentry>
-        <stentry> <image href="assets/images/hilltop-farm-map.png"><alt>Map thumbnail for the Hill-Top farm.</alt></image></stentry>
-        <stentry>The farm area is dotted with cliffs, and cut down the middle by a stream. Farming land is significantly decreased, but there are ore nodes and stones that spawn in south-west hill-top.</stentry>
         <stentry>1648</stentry>
         <stentry>930</stentry>
         <stentry>Mining</stentry>
       </strow>
        <strow>
         <stentry>Wilderness Farm</stentry>
-        <stentry> <image href="assets/images/wilderness-farm-map.png"><alt>Map thumbnail for the Wilderness Farm.</alt></image></stentry>
-        <stentry>On this farm, monsters will spawn at nightfall, and once players reach level 9 in combat they will have the chance to fight exclusive mobs for items such as seeds and iridium ore. The lakes are fishable. </stentry>
         <stentry>2131</stentry>
         <stentry>444</stentry>
         <stentry>Comabt</stentry>
@@ -58,30 +46,18 @@
        <strow>
         <stentry>Four Corners Farm</stentry>
         <stentry> <image href="assets/images/four-corners-farm-map.png"><alt>Map thumbnail for the four corners farm</alt></image></stentry>
-        <stentry>The farming area is split up by cliffs creating four distinct regions of the farm that are modeled off of pre-existing farm maps:
-          <ul>
-            <li>Top Left: Forest Farm</li>
-            <li>Top Right: Standard Farm</li>
-            <li>Bottom Left: Forest Farm + Fishing Pond</li>
-            <li>Bottom Right: Hilltop Farm</li>
-          </ul>
-        </stentry>
         <stentry>2952</stentry>
         <stentry>All buildable tiles are also tillable.</stentry>
         <stentry>Multiplayer</stentry>
       </strow>
        <strow>
         <stentry>Beach Farm</stentry>
-        <stentry> <image href="assets/images/beach-farm-map.png"><alt>Map thumbnail for the beach farm.</alt></image></stentry>
-        <stentry>This farm map contains both sandy and regular soil, and is surrounded by water on three sides. There are areas where forraging items will spawn on the farm, and occaionally supply crates will wash up to shore. Inteded for experienced players.</stentry>
         <stentry>2700</stentry>
         <stentry>1928</stentry>
         <stentry>Foraging and Fishing</stentry>
       </strow>
        <strow>
         <stentry>Meadowlands Farm</stentry>
-        <stentry> <image href="assets/images/meadowlands-farm-map.png"><alt>Map thumbnail for the meadowlands farm.</alt></image></stentry>
-        <stentry>This map is similar to a standard map, but it is better equipped for animal farming. Blue grass that animals prefer spawns on this farm naturally. Players begin the game with a coop and two chickens. There is an increased number of fishing areas on the farm.</stentry>
         <stentry>2066</stentry>
         <stentry>All buildable tiles are also tillable.</stentry>
         <stentry>Farming</stentry>
