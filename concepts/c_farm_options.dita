@@ -1,11 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_enter_unique_id_here">
-  <title></title>
+<concept id="c_farm_options">
+  <title>Farm Type Options</title>
   <shortdesc>
-
+There are currently 8 different farm maps that you can choose from when you create a new save. While there are certain structures that appear on every map, each type has unique natural features that help with the development of different skills. 
   </shortdesc>
   <conbody>
+    <section>
+      <title>Standard Farm</title>
+      <image href="c_farm_options-images/icons/standard_farm_map_icon.png" alt="Pixel art of a red farm house on a yellow-brown swath of land. This icon is the same icon used in the save creation menu." />
+      <p>
+      <b>Description</b>
+      Standard farms are the original farm type released with version 1.0 of Stardew Valley. These maps are mostly farming land, making ideal for raising both crops and animals. This farm type is reccomened for beginner players
 
+      There are two small ponds on the property, but fishing in these ponds will only yield trash.
+      </p>
+      <p>
+      <b>Associated Skill</b> 
+      Farming
+      </p>
+      <p><b>Farm Layout</b></p>
+      <image href= "c_farm_options-images/maps/standard-farm-map.png" alt="A map of the standard farm in stardew valley. The farmhouse and greenhouse are sit at the top middle of the map, and there are two small ponds on the property." width = "243" height = "199px" />
+    </section>
+
+    <section>
+      <title>Riverland Farm</title>
+      <image href="c_farm_options-images/icons/riverland_farm_map_icon.png" alt="Pixel art of a teal house on a sandy piece of land surrounded by water. This is the same icone used in the save creation menu for the riverland farm."/>
+      <p>
+        <b>Description</b>
+        The map for the riverland farm is mostly water, significantly decreasing the overall farming area. However, players are able to catch the same fish that are found in Pelican Town from their farm.
+      </p>
+      <p><b>Associated Skill</b>
+      Fishing
+      </p>
+      <p><b>Farm Layout</b></p>
+      <image href="c_farm_options-images/maps/riverland-farm-map.png" alt="A map of the riverlands farm in stardew valley. There are small islands connected by bridges. Each island is surrounded by fresh water." width = "243" height = "199px" />
+    </section>
+
+    <section>
+      <title>Forest Farm</title>
+      <image href="" alt=""/>
+      <p>
+        <b>Description</b>
+      </p>
+      <p><b>Associated Skill</b>
+      </p>
+      <p><b>Farm Layout</b></p>
+      <image href="c_farm_options-images/maps/forest-farm-map.png" alt="" width = "243" height = "199px" />
+    </section> 
+
+    <section>
+      <title>Hill-Top</title>
+      <image href="" alt=""/>
+      <p>
+        <b>Description</b>
+      </p>
+      <p><b>Associated Skill</b>
+      </p>
+      <p><b>Farm Layout</b></p>
+      <image href="c_farm_options-images/maps/hilltop-farm-map.png" alt="" width = "243" height = "199px" />
+    </section> 
+
+    <section>
+      <title>Wilderness Farm</title>
+      <image href="" alt=""/>
+      <p>
+        <b>Description</b>
+      </p>
+      <p><b>Associated Skill</b>
+      </p>
+      <p><b>Farm Layout</b></p>
+      <image href="c_farm_options-images/maps/wilderness-farm-map.png" alt="" width = "243" height = "199px" />
+    </section> 
+
+    <section>
+      <title>Four Corners Farm</title>
+      <image href="" alt=""/>
+      <p>
+        <b>Description</b>
+      </p>
+      <p><b>Associated Skill</b>
+      </p>
+      <p><b>Farm Layout</b></p>
+      <image href="c_farm_options-images/maps/four-corners-farm-map.png" alt="" width = "243" height = "199px" />
+    </section> 
+
+    <section>
+      <title>Beach Farm</title>
+      <image href="" alt=""/>
+      <p>
+        <b>Description</b>
+      </p>
+      <p><b>Associated Skill</b>
+      </p>
+      <p><b>Farm Layout</b></p>
+      <image href="c_farm_options-images/maps/beach-farm-map.png" alt="" width = "243" height = "199px" />
+    </section> 
+
+    <section>
+      <title>Meadowlands Farm</title>
+      <image href="" alt=""/>
+      <p>
+        <b>Description</b>
+      </p>
+      <p><b>Associated Skill</b>
+      </p>
+      <p><b>Farm Layout</b></p>
+      <image href="c_farm_options-images/maps/meadowlands-farm-map.png" alt="" width = "243" height = "199px" />
+    </section> 
   </conbody>
 </concept>
