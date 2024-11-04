@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_types_of_farms">
+  <title>Types of Farms</title>
+  <shortdesc>
+    There are 8 different farm maps that you can choose from when you create a new save. Each farm has a differnet number of tillable, and build only tiles. The unique features offer different benefits that help with the development of their associated skill.
+  </shortdesc>
+  <refbody>
+    <simpletable>
+      <sthead>
+        <stentry>Name</stentry>
+        <stentry>Tillable Tiles</stentry>
+        <stentry>Build Only Tiles</stentry>
+        <stentry>Associated Skill</stentry>
+      </sthead>
+      <strow>
+        <stentry>Standard Farm</stentry>
+        <stentry>3427</stentry>
+        <stentry>235</stentry>
+        <stentry>Farming</stentry>
+      </strow>
+       <strow>
+        <stentry>Riverland Farm</stentry>
+        <stentry>1578</stentry>
+        <stentry>516</stentry>
+        <stentry>Fishing</stentry>
+      </strow>
+       <strow>
+        <stentry>Forest Farm</stentry>
+        <stentry>1413</stentry>
+        <stentry>1490</stentry>
+        <stentry>Foraging</stentry>
+      </strow>
+       <strow>
+        <stentry>Hill-Top Farm</stentry>
+        <stentry>1648</stentry>
+        <stentry>930</stentry>
+        <stentry>Mining</stentry>
+      </strow>
+       <strow>
+        <stentry>Wilderness Farm</stentry>
+        <stentry>2131</stentry>
+        <stentry>444</stentry>
+        <stentry>Comabt</stentry>
+      </strow>
+       <strow>
+        <stentry>Four Corners Farm</stentry>
+        <stentry> <image href="assets/images/four-corners-farm-map.png"><alt>Map thumbnail for the four corners farm</alt></image></stentry>
+        <stentry>2952</stentry>
+        <stentry>All buildable tiles are also tillable.</stentry>
+        <stentry>Multiplayer</stentry>
+      </strow>
+       <strow>
+        <stentry>Beach Farm</stentry>
+        <stentry>2700</stentry>
+        <stentry>1928</stentry>
+        <stentry>Foraging and Fishing</stentry>
+      </strow>
+       <strow>
+        <stentry>Meadowlands Farm</stentry>
+        <stentry>2066</stentry>
+        <stentry>All buildable tiles are also tillable.</stentry>
+        <stentry>Farming</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>
