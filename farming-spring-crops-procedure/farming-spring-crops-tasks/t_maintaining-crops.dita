@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_enter_unique_id_here">
-  <title></title>
+<task id="t_maintaining-crops">
+  <title>Watering Planted Crops</title>
   <shortdesc>
-
+In order for your crops to grow, they must be watered on a daily basis until they are ready to harvest. If you miss a day of watering, your crops will not die, but they also will not progress to the next stage of growth.
   </shortdesc>
   <taskbody>
-
+    <prereq>You will need a watering can, which was provided at the start of the game, to water your crops.</prereq>
+    <context>You do not need to water your crops on days where it is raining.</context>
+    <steps>
+      <stepsection>Filling Watering Can</stepsection>
+      <step>
+        <cmd>Equip the watering can by moving it to the top bar of your inventory and using the corresponding number key to select it.</cmd>
+      </step>
+      <step>
+        <cmd>Approach any body of water.</cmd>
+      </step>
+      <step>
+        <cmd>Left click to fill the can with water.</cmd>
+        <tutorialinfo>You do not need to hold down to fill the can. One click should fill it all the way.</tutorialinfo>
+        <stepresult>The fill bar on the watering can icon in your inventory should return to the top, and a slurping sound effect will play.</stepresult>
+      </step>
+      <stepsection>Watering Crops</stepsection>
+      <step>
+        <cmd>Approach the crop you want to water and right click.</cmd>
+        <stepresult>The ground underneath the crop you chose to water should darken and you will hear a sound effect of pouring water.</stepresult>
+      </step>
+    </steps>
   </taskbody>
 </task>
