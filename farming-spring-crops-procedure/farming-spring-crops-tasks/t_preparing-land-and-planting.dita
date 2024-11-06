@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_enter_unique_id_here">
-  <title></title>
+<task id="t_preparing-land-and-planting-seeds">
+  <title>Preparing the Land and Planting Seeds</title>
   <shortdesc>
-
+Once you have acquired your seeds, you will need to prepare the land for planting to grow the crops.
   </shortdesc>
   <taskbody>
-
+    <prereq>
+    You need the following tools to complete this task:
+      <ul>
+        <li>axe</li>
+        <li>hoe</li>
+        <li>pickaxe</li>
+        <li>scythe</li>
+        <li>watering can</li>
+        </ul>
+    </prereq>
+    <steps>
+    <stepsection>Preparing the Land</stepsection>
+      <step>
+        <cmd>Right click with the appropriate tool to clear any obstacles from the land.</cmd>
+      </step>
+      <step>
+        <cmd>Equip your hoe.</cmd>
+      </step>
+      <step>
+        <cmd>Use the arrow keys to aim your character at the square  you wish to till. Right click to till the land.</cmd>
+        <stepresult>The tilled land will darken slightly and a digging sound effect will play.</stepresult>
+      </step>
+      <step>
+        <cmd>Repeat until you have tilled one square per seed you want to plant.</cmd>
+      </step>
+    <stepsection>Planting the Crops</stepsection>
+      <step>
+        <cmd>Equip the seeds of the crop you wish to plant.</cmd>
+      </step>
+      <step>
+        <cmd>Right click on the tilled square where you want to plant the seed.</cmd>
+        <stepresult>Scatter seeds should appear on the tilled dirt, and you should no longer be able to plant on top of those seeds.</stepresult>
+      </step>
+      <step>
+        <cmd>Repeat until you have planted all your seeds.</cmd>
+        <info>FYI: You will need to water your crops after planting in order for that day to count towards the total grow time.</info>
+      </step>
+    </steps>
   </taskbody>
 </task>
