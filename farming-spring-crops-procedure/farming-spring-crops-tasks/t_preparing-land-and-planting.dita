@@ -41,6 +41,7 @@ Once you have acquired your seeds, you will need to prepare the land for plantin
       </step>
       <step>
         <cmd>Repeat until you have planted all your seeds.</cmd>
+        <info>FYI:You will need to water your plants after planting in order for that day to count towards the total grow time.</info>
       </step>
     </steps>
   </taskbody>
