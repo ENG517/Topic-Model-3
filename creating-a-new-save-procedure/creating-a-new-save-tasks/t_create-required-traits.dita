@@ -8,20 +8,20 @@ The player cannot proceed with the game until they have chosen their required tr
   <taskbody>
 <steps>
   <step>
-    <cmd>Launch Stardew Valley, and click New on the top-left corner. You will be brought to the character and farm creation page.</cmd>
+    <cmd>Launch Stardew Valley, and click New on the bottom-left corner. You will be brought to the character and farm creation page.</cmd>
   </step>
   <step>
     <cmd>Enter your character's name into the "Name" field.</cmd>
     <info>Warning: Your cannot change your character's name.</info>
-    <info>FYI: Daisy Day is the default character name.</info>
+    <info>FYI: Alex is an example name, the default is blank.</info>
   </step>
   <step>
     <cmd>Type the name you want for your farm into the "Farm Name" field.</cmd>
-    <info>FYI: Daisy Day is the default farm name.</info>
+    <info>FYI: Daisy Day is an example farm name, the default is blank.</info>
   </step>
   <step>
     <cmd>Add in something to serve as your favorite thing. Your favorite thing has no impact on game play, but is simply a way for you to add another level of personality to your character!</cmd>
-    <info>FYI: Apple pie is your character's default favorite thing</info>
+    <info>FYI: Apple pie is an example, the default favorite thing is blank.</info>
   </step>
   <step>
     <cmd>Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.</cmd>
