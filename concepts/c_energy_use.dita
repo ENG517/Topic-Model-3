@@ -1,11 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_enter_unique_id_here">
-  <title></title>
+<concept id="c_energy_use">
+  <title>Using Energy to Complete Tasks</title>
   <shortdesc>
-
+Any time you use a tool (with the exceptions of scythes and pans), engage in combat, or move a chest in Stardew Valley, it will deplete some of your energy. You will need to pay attention to this level each day as you complete tasks around the farm, and in Pelican Town.
   </shortdesc>
   <conbody>
+    <p>
+      Each player starts the game with 270 points of maximum energy. Currently available energy is indicated on the energy bar in the bottom right corner of the screen.
+    </p>
+    <section>
+      <title>Exhaustion</title>
+      <p>
+        If a player reaches 0 energy they will become exhausted. This is indicated by an 'X' dialogue bubble appearing above the player, the energy bar being empty, and the E symbol on the top of the bar converting to a frowning face.
+      </p>
+      <p>
+        When exhausted, a player's speed is significantly reduced, weapons and tools take longer to use, and a fishing pole cannot be used at all. 
+      </p>
+      <p>
+        Using any of these when exhausted will result in a player recieving negative energy. At -15 energy a player will pass out, and end the day. Passing out anywhere outside of the houes will result in a player loosing 10% of their money, up to 1000g.
+      </p>
+      <p>
+        There are warnings that appear when a player is close to reaching exhaustion. At 20 energy, continued activity will make the energy bar shake and emit drops of sweat. When the player hits 15 energy they will get a warning stating "You're starting to feel exhausted". These warnings have no impact on the player's overnight energy restoration.
+      </p>
+    </section>
+    <section>
+      <title>Replenishing Energy</title>
+      <p><b>Eating Food</b></p>
+      <p>
+        Energy can be replenished up to the player's maximum by eating positive-energy food. To eat food:
+      </p>
+      <ol>
+        <li>Add food to the hotbbar (top row of your inventory)</li>
+        <li>Select that food item by pressing the associated key</li>
+        <li>Right click with the food item in your hand</li>
+        <li>Select yes from the resulting pop-up</li>
+      </ol>
+      <p> Once you have eaten the food item you will get a notification in the bottom left of the screen to show the energy and health gained by eating the food, and your energy bar will increase.</p>
+      <p></p>
+      <p><b>Restoration</b></p>
+      <p>
+        Other than eating, you can also increase your energy throughout the day by visiting the Spa and while in multiplayer, being in a Bed.
 
+        Relaxing in the spa will increase your energy by 1 for every 100ms you stay in the pool without moving.
+
+        Resting in bed, in multiplayer only, will increasee your energy by 1 every 500ms.
+      </p>
+    </section>
+    <section>
+      <title>Sleeping</title>
+      <p>Sleeping will restore your energy for the next day. Going to bed at or before 12:00am restores energy to its maximum amount. There is a late to bed penalty</p>
+      <p><b>Late to Bed Penalty</b></p>
+      <simpletable>
+        <sthead>
+            <stentry>Time</stentry>
+            <stentry>Energy Loss</stentry>
+        </sthead>
+        <strow>
+          <stentry>12:10AM</stentry>
+          <stentry>-2.5%</stentry>
+        </strow>
+        <strow>
+          <stentry>12:20AM</stentry>
+          <stentry>-5%</stentry>
+        </strow>
+        <strow>
+          <stentry>12:30AM</stentry>
+          <stentry>-7.5%</stentry>
+        </strow>
+        <strow>
+          <stentry>12:40AM</stentry>
+          <stentry>-10%</stentry>
+        </strow>
+        <strow>
+          <stentry>12:50am</stentry>
+          <stentry>-12.5%</stentry>
+        </strow>
+        <strow>
+          <stentry>1:00AM</stentry>
+          <stentry>-25%</stentry>
+        </strow>
+        <strow>
+          <stentry>1:10AM</stentry>
+          <stentry>-27.5%</stentry>
+        </strow>
+        <strow>
+          <stentry>1:20AM</stentry>
+          <stentry>-30%</stentry>
+        </strow>
+        <strow>
+          <stentry>1:30AM</stentry>
+          <stentry>-32.5%</stentry>
+        </strow>
+        <strow>
+          <stentry>1:40AM</stentry>
+          <stentry>-35%</stentry>
+        </strow>
+        <strow>
+          <stentry>1:50AM</stentry>
+          <stentry>-37.5%</stentry>
+        </strow>
+        <strow>
+          <stentry>2:00AM (Player Passes Out)</stentry>
+          <stentry>-50%</stentry>
+        </strow>
+      </simpletable>
+      <p>
+        Additionally, if a player goes to bed exhausted, the sleep will remove the exhaustion but will reduce the energy restored by 50%.
+      </p>
+    </section>
+    <section>
+      <title>Increasing Maximum Energy</title>
+    <p>
+      You can permanently increase your maximum energy by 34 points each time you eat a Stardrop. Eating every available Stardrop in the game will permanently increase your energy to 508. 
+    </p>
+    <p>
+      Temporary increases of maximum energy are also possible, if food that supports energy buffs are consumed. Two buffs can be active at a time if one comes from consuming a food, and the other from consuming a drink. The largest possible temporary value of maximum energy is 588.
+    </p>
+    </section>
   </conbody>
 </concept>
