@@ -20,11 +20,32 @@ Once you have acquired your seeds, you will need to prepare the land for plantin
     <stepsection>Preparing the Land</stepsection>
       <step>
         <cmd>Right click with the appropriate tool to clear any obstacles from the land.</cmd>
+        <info audience="novice">
+          <simpletable>
+            <sthead>
+              <stentry>Object</stentry>
+              <stentry>Tool(s) that Can Clear It</stentry>
+            </sthead>
+            <strow>
+              <stentry>Grass, weeds</stentry>
+              <stentry>Scythe, Sword</stentry>
+            </strow>
+            <strow>
+              <stentry>Rocks</stentry>
+              <stentry>Pickaxe</stentry>
+            </strow>
+            <strow>
+              <stentry>Trees, Stumps, and Logs</stentry>
+              <stentry>Axe</stentry>
+            </strow>
+          </simpletable>
+        Larger objects may require and upgraded tool.
+        </info>
       </step>
       <step>
         <cmd>Equip your hoe.</cmd>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>Use the arrow keys to aim your character at the square  you wish to till. Right click to till the land.</cmd>
         <stepresult>The tilled land will darken slightly and a digging sound effect will play.</stepresult>
       </step>
@@ -34,6 +55,7 @@ Once you have acquired your seeds, you will need to prepare the land for plantin
     <stepsection>Planting the Crops</stepsection>
       <step>
         <cmd>Equip the seeds of the crop you wish to plant.</cmd>
+        <info audience="expert">Adding fertilizer at this stage can increase your chances of getting high quality crops.</info>
       </step>
       <step>
         <cmd>Right click on the tilled square where you want to plant the seed.</cmd>

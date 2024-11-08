@@ -7,10 +7,10 @@ In order for your crops to grow, they must be watered on a daily basis until the
   </shortdesc>
   <taskbody>
     <prereq>You will need a watering can, which was provided at the start of the game, to water your crops.</prereq>
-    <context>You do not need to water your crops on days where it is raining.</context>
+    <context>You do not need to water your crops on days where it is raining. <p audience="expert"> By crafting and using sprinklers your plants will be water automatically each day. </p></context>
     <steps>
       <stepsection>Filling Watering Can</stepsection>
-      <step>
+      <step audience="novice">
         <cmd>Equip the watering can by moving it to the top bar of your inventory and using the corresponding number key to select it.</cmd>
       </step>
       <step>
