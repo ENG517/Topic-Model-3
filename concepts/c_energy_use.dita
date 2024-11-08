@@ -9,7 +9,7 @@ Any time you use a tool (with the exceptions of scythes and pans), engage in com
     <p>
       Each player starts the game with 270 points of maximum energy. Currently available energy is indicated on the energy bar in the bottom right corner of the screen.
     </p>
-    <section>
+    <section audience="novice">
       <title>Exhaustion</title>
       <p>
         If a player reaches 0 energy they will become exhausted. This is indicated by an 'X' dialogue bubble appearing above the player, the energy bar being empty, and the E symbol on the top of the bar converting to a frowning face.
@@ -24,7 +24,7 @@ Any time you use a tool (with the exceptions of scythes and pans), engage in com
         There are warnings that appear when a player is close to reaching exhaustion. At 20 energy, continued activity will make the energy bar shake and emit drops of sweat. When the player hits 15 energy they will get a warning stating "You're starting to feel exhausted". These warnings have no impact on the player's overnight energy restoration.
       </p>
     </section>
-    <section>
+    <section audience="novice">
       <title>Replenishing Energy</title>
       <p><b>Eating Food</b></p>
       <p>
