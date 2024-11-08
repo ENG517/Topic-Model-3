@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_enter_unique_id_here">
+  <title>Farming in Stardew Valley</title>
+  <shortdesc>
+  In the early stages of the game, farming and selling crops is the best way to build your income.
+  </shortdesc>
+  <conbody>
+    <p>
+    The information found below is intended only for Stardew Valley version 1.6 on PC.
+    </p>
+    <p>
+     There are some pre-requisited to have squared away before starting your new save.
+      <ul>
+        <li>Must have Steam installed, and be signed in to your account</li>
+        <li> Must have Stardew Valley in your Steam Library (which means you have purchased or been gifted the game).</li>
+        <li>Have Stardew Valley 1.6 installed.</li>
+        <li>Must have an existing save file, or create a new save file.</li>
+     </ul>
+    </p>
+    <p>
+    Once all of the pre-requisites to starting the game have been completed, there are some in-game requirements and items needed to begin farming.
+      <ul>
+        <li>A square of land for each crop you wish to plant. These square should be cleared of all other objects, such as trees, grass, bushes, rocks, and decorations.</li>
+        <li>A hoe</li>
+        <li>A watering can</li>
+        <li>Gold coins to purchase seeds (when needed)</li>
+      </ul>
+    </p>
+    <p>
+      There are also some optional items to use when farming.
+      <ul>
+        <li>Sprinklers</li>
+        <li>Fertilizer</li>
+        <li>Scythe</li>
+      </ul>
+    </p>
+  </conbody>
+</concept>
