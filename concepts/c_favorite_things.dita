@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_enter_unique_id_here">
+<concept id="c_favorite_things">
   <title>Favorite Things</title>
   <shortdesc>
 Your "Favorite Thing" is the third customizable trait when create your farmer, after you've given them a name and established your farm's name.
@@ -8,6 +8,9 @@ Your "Favorite Thing" is the third customizable trait when create your farmer, a
   <conbody>
     <p>
       Your character's favorite thing is completely up to you, you can be as creative as you like. Your avatar's "Favorite Thing" comes into play when you find stardrops, which are little gems that give your avatar energy to boost their health and stamina. Other that stardrops, your "Favorite Thing" is occasionally brought up in dialogue with other characters.
+    </p>
+    <p>
+      <b>Tip:</b> There is an Easter egg in game for users who list Stardew Valley or ConcernedApe as their favorite thing when they find Stardrops.
     </p>
   </conbody>
 </concept>
