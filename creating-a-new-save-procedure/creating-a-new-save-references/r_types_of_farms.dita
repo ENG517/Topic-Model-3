@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="r_types_of_farms">
+<reference id="r_types_of_farms" audience="expert">
   <title>Types of Farms</title>
   <shortdesc>
     There are 8 different farm maps that you can choose from when you create a new save. Each farm has a differnet number of tillable, and build only tiles. The unique features offer different benefits that help with the development of their associated skill.

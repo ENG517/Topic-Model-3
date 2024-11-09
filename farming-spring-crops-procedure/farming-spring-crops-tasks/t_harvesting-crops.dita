@@ -9,7 +9,7 @@
     <prereq>Crops can only be harvested once they are finished growing. You will know if a plant is finished growing if you hover over it and a green plus appears on your cursor.</prereq>
     <steps>
       <step>
-        <cmd>Hover over the crop you wish to harvest and right click. </cmd>
+        <cmd audience="novice">Hover over the crop you wish to harvest and right click. </cmd>
         <info>
           <p>The harvested crop should imeediately enter your inventory. If it does not, consult the following table:</p>
           <simpletable>
@@ -35,7 +35,7 @@
           </strow>
         </simpletable></info>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>Walk over to the shopping bin and right click to open it.</cmd>
         <stepresult>You should be brought to a screen that resembles your inventory with an extra box on top of the existing rows.</stepresult>
       </step>
