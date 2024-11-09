@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_enter_unique_id_here">
+<task id="t_avatar_customization">
   <title>How to Customize a New Character</title>
   <shortdesc>
-The "Designing your character" portion of the new save set-up process allows for the most customization. Some aspects of the character design phase allow for more freedom than others, for example physical characteristics of characters have rigid presents, but color selection allows for more freedom. 
+The "Designing Your Character" portion of the new save set-up process allows for the most customization. Some aspects of the character design phase allow for more freedom than others, for example physical characteristics of characters have rigid presents, but color selection allows for more freedom. 
   </shortdesc>
   <taskbody>
 <steps>
  <step>
   <cmd>Choose the character’s sex. It is best to select this first as the clothing and hair styles will change if you decide to switch the sex of your character later.</cmd>
-  <info>Info: While selecting a character's sex will change the starting selections for the character's hair and outfit, all preset options are available regardless of the character's sex.</info>
+  <info><b>Info:</b> While selecting a character's sex will change the starting selections for the character's hair and outfit, all preset options are available regardless of the character's sex.</info>
  </step>
  <step>
   <cmd>Click the arrows to flip through all set appearance options for Skin Color, Hair Style, Shirt, Pants, and Accents.</cmd>
