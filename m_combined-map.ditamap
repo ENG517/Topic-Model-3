@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_combined-map">
   <title>An Introduction to Stardew Valley</title>
-  <topicref href="c_welcome.dita" type="concept">
+  <topicref href="c_welcome.dita" type="concept" toc="no">
   </topicref>
  
  <topicref href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_intro-to-new-saves.dita"  type="concept">
