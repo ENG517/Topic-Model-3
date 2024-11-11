@@ -1,11 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_enter_unique_id_here">
-  <title></title>
+<concept id="c_pierres_vs_joja_mart" audience="novice">
+  <title>Buying Seeds: Should I Go to Pierre's or JojaMart?</title>
   <shortdesc>
-
+There are main stores where you can buy seeds consistently: Pierre's General Store and JojaMart. Each store has its own hours, prices, and unique contributions to the storyline.
   </shortdesc>
   <conbody>
-
+    <section>
+      <title>Pierre's General Store</title>
+      <p><b>Hours &#x26; Location</b></p>
+      <p>Shop: 9am to 5pm (closed on Wednesday<b>*</b>)</p>
+      <p>Building: 9am to 9pm</p>
+      <p></p>
+      <p>
+        While you can access the building until 9pm each day, Pierre will only be at the counter to buy and sell with the player from 9am to 5pm everyday except for Wednesdays<b>*</b>.
+      </p>
+      <p> Pierre's General Store (aka Pierre's) is located in the north of Town Square. </p>
+      <p></p>
+      <p><b>*</b>Once the community center has bee restored, Pierre's will be open every day.</p>
+       <p></p>
+      <p><b>About</b></p>
+      <p>Pierre's General Store is a Pelican Town staple, owned and operated by Pierre himself. This small business is in direct competition with the corpate owned JojaMart.</p>
+      <p></p>
+      <p><b>Stock</b></p>
+      <p>
+       Pierre's carries a vareity of farming items. While seeds are offered seasonally, but he offers a variety of year-round stock:
+      </p>
+      <ul>
+        <li>Apple, apricot, cherry, orange, peach and pomegranate saplings</li>
+        <li>Basic and quality fertilizer</li>
+        <li>Basic and quality retaining soil</li>
+        <li>Bouquet</li>
+        <li>Catalogue</li>
+        <li>Dehydrator recipe</li>
+        <li>Flooring (random pattern each day)</li>
+        <li>Grass starter</li>
+        <li>Grass starter recipe</li>
+        <li>Oil</li>
+        <li>Rice</li>
+        <li>Regular and deluxe Speed-Gro</li>
+        <li>Sugar</li>
+        <li>Vinegar</li>
+        <li>Wallpaper (random each day)</li>
+        <li>Wheat flour</li>
+      </ul>
+      <p></p>
+      <p>
+        You can also buy backpack upgrades from Pierre to unlock the second and third slots of your inventory.
+      </p>
+      <p></p>
+      <p>
+      Pierre will also buy items from the player. These items include:
+      </p>
+      <ul>
+        <li>Animal products</li>
+        <li>Artisan goods</li>
+        <li>Cooked dishes</li>
+        <li>Crops</li>
+        <li>Crop seeds</li>
+        <li>Foraged items</li>
+      </ul>
+      <p></p>
+    </section>
+    <section>
+      <title>Joja Mart</title>
+      <p>
+      </p>
+      <p><b>Hours &#x26; Location</b></p>
+      <p>Shop: 9am to 11pm (closes when player completes the Community Center)</p>
+      <p>JojaMart is located directly north of the Blacksmith on the north east edge of Pelican Town.</p>
+      <p></p>
+      <p><b>About</b></p>
+      <p>
+        JojaMart is a store owned by the player's previous employer the Joja Corporation. This store is the main competiton for Pierre's General Store. 
+        They sell a similar variety of seeds and other items, but JojaMart is open later than Pierre's and is open on Wednesdays.
+      </p>
+      <p></p>
+      <p>
+        Joja Mart offers a memebership that will reduce the prices significantly that players can purchase for 5000g. Without a memebership the prices at JojaMart are typically higher than Pierres. 
+        </p>
+        <p>
+        <b>Caution:</b> Purchasing the JojaMart Membership will remove the option to complete the Community Center achievements. However, the gifts that these accomplishements unlock can be purchased for 15,000g to 40,000g.
+      </p>
+      <p></p>
+      <p><b>Stock</b></p>
+      <p>
+        JojaMart offers seeds on a seasonal basis, but has a permanent stock of items that includes:
+      </p>
+      <ul>
+        <li>Auto-Petter (only if the Membership is purchased, and the </li>
+        <li>Flooring (random each day)</li>
+        <li>Grass Starter</li>
+        <li>J. Cola Light</li>
+        <li>Joja Cola</li>
+        <li>Joja Furniture Catalogue</li>
+        <li>Joja and Random Wallpapers</li>
+        <li>Rice</li>
+        <li>Sugar</li>
+        <li>Wheat Flour</li>   
+      </ul>
+    </section>
   </conbody>
 </concept>
