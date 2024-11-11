@@ -8,27 +8,19 @@
       <navtitle>Introduction</navtitle>
     </topicmeta>
   </topicref>
-
    <topicref type="reference" href="creating-a-new-save-procedure/creating-a-new-save-references/r_types-of-traits.dita" >
   </topicref>
-
-  
    <topicref type="task" href="creating-a-new-save-procedure/creating-a-new-save-tasks/t_create-required-traits.dita" >
-  </topicref>
-
-  <topicref type="concept" href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_favorite-things.dita" >
-  </topicref>
-  
-   <topicref type="concept" href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_farm-options-files/c_farm-options.dita">
-  </topicref>
-
-
-   <topicref type="reference" href="creating-a-new-save-procedure/creating-a-new-save-references/r_types-of-farms.dita" >
-    <topicmeta>
-      <navtitle>Farms at a Glance</navtitle>
-    </topicmeta>
-  </topicref>
-  
+    <topicref type="concept" href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_favorite-things.dita" >
+    </topicref>
+    <topicref type="concept" href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_farm-options-files/c_farm-options.dita">
+    </topicref>
+    <topicref type="reference" href="creating-a-new-save-procedure/creating-a-new-save-references/r_types-of-farms.dita" >
+      <topicmeta>
+        <navtitle>Farms at a Glance</navtitle>
+      </topicmeta>
+    </topicref>
+   </topicref>
    <topicref type="task" href="creating-a-new-save-procedure/creating-a-new-save-tasks/t_avatar-customization.dita" >
   </topicref>
 </map>

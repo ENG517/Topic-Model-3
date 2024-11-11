@@ -26,7 +26,7 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
 - Task Topics: `t_verb-verbobject.dita`
 - Concept Topics: `c_noun-phrase.dita`
 - Reference Topics: It varies, but something akin to `r_types-of-nounphrase.dita`
-- Dita Maps: `_modelname.ditamap`
+- Dita Maps: `m_map-title.ditamap`
 
 ## Project Maps
   ### Big Boy Map
@@ -55,13 +55,13 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
 
   #### Map Outline
     - c_intro-to-farming (all)
-    - c_pierres-vs-jojamart (novice)
+    -  c_pierres-vs-jojamart (novice)
     - t_buying-seeds (novice)
       - r_types-of-crops (all)
     - c_seed-maker (expert)
     - t_using-seed-maker (expert)
-    - r_farming-tools (novice)
     - c_energy-use (novice)
+    - r_farming-tools (novice)
     - t_preparing-land-and-planting-seeds (all)
     - t_maintaining-crops (all)
     - t_harvesting-crops (all)
