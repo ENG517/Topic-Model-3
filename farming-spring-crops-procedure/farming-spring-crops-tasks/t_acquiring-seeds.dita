@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_acquiring_seeds" audience="novice">
+<task id="t_acquiring_seeds">
   <title>Acquiring Seeds</title>
   <shortdesc>
   Before crops can be planted, you must have seeds for the appropriate crop. There are three methods for acquiring seeds, here you will learn how to acquire seeds from shops
@@ -18,11 +18,11 @@
   </step>
   <step>
     <cmd>Scroll in the catalogue to find and select the plants you wish to grow.</cmd>
-    <info><b>Tip:</b> If you hover over the seed you can see the growing details, such as what season you can plant the crop in, and how long it will take to grow.</info>
+    <info audience="novice"><b>Tip:</b> If you hover over the seed you can see the growing details, such as what season you can plant the crop in, and how long it will take to grow.</info>
   </step>
   <step>
     <cmd>Right-click to purchase one packet of seeds. Each packet will grow one plant of that type.</cmd>
-    <info><b>Tip:</b> You can buy multiples of 5 by holding Shift + right- or left-click, multiples of 25 by holding Control + Shift + right- or left-click, or a full stack of 999 by holding Control + Shift + 1 + left-click. Once you click, the money will automatically leave your inventory.</info>
+    <info audience="novice"><b>Tip:</b> You can buy multiples of 5 by holding Shift + right- or left-click, multiples of 25 by holding Control + Shift + right- or left-click, or a full stack of 999 by holding Control + Shift + 1 + left-click. Once you click, the money will automatically leave your inventory.</info>
   </step>
 </steps>
   </taskbody>

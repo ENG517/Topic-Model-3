@@ -2,37 +2,27 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_farming_spring_crops">
   <title>Geting Started with Farming: Spring Crops</title>
-
     <topicref href="farming-spring-crops-procedure/farming-spring-crops-concepts/c_intro-to-farming.dita" type="concept">
     </topicref>
-
     <topicref href="farming-spring-crops-procedure/farming-spring-crops-concepts/c_pierres-vs-jojamart.dita" type="concept"></topicref>  
-
     <topicref href="farming-spring-crops-procedure/farming-spring-crops-tasks/t_acquiring-seeds.dita" type="task">
     <topicmeta>
     <navtitle>Buying Seeds</navtitle>
     </topicmeta>
       <topicref href="farming-spring-crops-procedure/farming-spring-crops-references/r_types-of-crops.dita" type="reference"></topicref>
     </topicref>
-
     <topicref href="farming-spring-crops-procedure/farming-spring-crops-concepts/c_seed-maker.dita" type="concept">
     </topicref>
-
     <topicref href="farming-spring-crops-procedure/farming-spring-crops-tasks/t_using-seed-maker.dita" type="task">
     </topicref>
-
     <topicref href="farming-spring-crops-procedure/farming-spring-crops-concepts/c_energy-use.dita" type="concept">
     </topicref>
-
     <topicref href="farming-spring-crops-procedure/farming-spring-crops-references/r_types-of-farming-tools.dita" type="reference">
     </topicref>
-
     <topicref href="farming-spring-crops-procedure/farming-spring-crops-tasks/t_preparing-land-and-planting.dita" type="task">
     </topicref>
-
     <topicref href="farming-spring-crops-procedure/farming-spring-crops-tasks/t_maintaining-crops.dita" type="task">
     </topicref>
-
     <topicref href="farming-spring-crops-procedure/farming-spring-crops-tasks/t_harvesting-crops.dita" type="task">
     </topicref>
 </map>
