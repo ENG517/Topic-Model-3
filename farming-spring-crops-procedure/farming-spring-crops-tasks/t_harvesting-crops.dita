@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_enter_unique_id_here">
-  <title></title>
+<task id="t_harvesting-and-selling-crops">
+  <title>Harvesting and Selling Crops</title>
   <shortdesc>
-
+  After planting and sucessfully maintaing your crops you will be able to harvest the fully grown plant. These plants can then be sold to increase your farm's income, gifted to villagers, or use in recipes to create other goods.
   </shortdesc>
   <taskbody>
-
+    <prereq>Crops can only be harvested once they are finished growing. You will know if a plant is finished growing if you hover over it and a green plus appears on your cursor.</prereq>
+    <steps>
+      <step>
+        <cmd audience="novice">Hover over the crop you wish to harvest and right click. </cmd>
+        <info>
+          <p>The harvested crop should imeediately enter your inventory. If it does not, consult the following table:</p>
+          <simpletable>
+          <sthead>
+            <stentry>Problem</stentry>
+            <stentry>Error Message</stentry>
+            <stentry>Solution(s)</stentry>
+          </sthead>
+          <strow>
+            <stentry>Unable to harvest crop.</stentry>
+            <stentry>Inventory Full.</stentry>
+            <stentry>You have too many items in your inventory. Sell, throw away or at least one item.</stentry>
+          </strow>
+          <strow>
+            <stentry>Unable to harvest crop.</stentry>
+            <stentry>Requires scythe.</stentry>
+            <stentry>Certain crops require a scythe. Equip the scthre and try harvesting again.</stentry>
+          </strow>
+          <strow>
+            <stentry>Crop did not enter inventory upon harvesting.</stentry>
+            <stentry>No error message</stentry>
+            <stentry>You may be too far from the crop to pick it up. Move closer to see if you can aquire it.</stentry>
+          </strow>
+        </simpletable></info>
+      </step>
+      <step audience="novice">
+        <cmd>Walk over to the shopping bin and right click to open it.</cmd>
+        <stepresult>You should be brought to a screen that resembles your inventory with an extra box on top of the existing rows.</stepresult>
+      </step>
+      <step>
+        <note>Once an item has been sold it can not be reclaimed.</note>
+        <cmd>Right click the crops in your inventory to sell them.</cmd>
+        <stepresult>The full stack of crops should popuate in the selling window, and a thudding sound effect should play.</stepresult>
+      </step>
+    </steps>
+    <result>Once the crops have been harvested you will be able to reuse the tilled farmland. You will recieve the profits from the crops you sold at the beginning of the next day.</result>
   </taskbody>
 </task>
