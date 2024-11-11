@@ -29,9 +29,13 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
 - Dita Maps: `m_map-title.ditamap`
 
 ## Project Maps
-  ### Big Boy Map
+  ### Combined Maps
     - c_welcome
-    - Submaps for each scenario
+    - Creating a new save map content
+    - Getting started with farming map content
+  
+  Initially, this was supposed to be a map made of two submaps, however due to issues linking images the combining of the maps was done manually. As part of the revision process for the following project, we hope to resolve some of these issues and then combine the maps as initially intended.
+
   ### User Scenario 1: Creating a New Save
   The user has just made the decision to download the game, and is creating their first save. They are overwhelmed by the amount of options available for character customization and farm type. 
   While they have never played Stardew Valley before, they have played other simulations and RPGs.
@@ -55,7 +59,7 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
 
   #### Map Outline
     - c_intro-to-farming (all)
-    -  c_pierres-vs-jojamart (novice)
+    - c_pierres-vs-jojamart (novice)
     - t_buying-seeds (novice)
       - r_types-of-crops (all)
     - c_seed-maker (expert)

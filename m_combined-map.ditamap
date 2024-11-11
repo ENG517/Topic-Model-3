@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_combined-map">
+  <title>An Introduction to Stardew Valley</title>
+  <topicref href="c_welcome.dita" type="concept">
+  </topicref>
+ 
+ <topicref href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_intro-to-new-saves.dita"  type="concept">
+    <topicmeta>
+      <navtitle>Creating a New Save in Stardew Valley</navtitle>
+    </topicmeta>
+    <topicref type="reference" href="creating-a-new-save-procedure/creating-a-new-save-references/r_types-of-traits.dita" >
+    </topicref>
+    <topicref type="task" href="creating-a-new-save-procedure/creating-a-new-save-tasks/t_create-required-traits.dita" >
+      <topicref type="concept" href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_favorite-things.dita" >
+      </topicref>
+      <topicref type="concept" href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_farm-options-files/c_farm-options.dita">
+      </topicref>
+      <topicref type="reference" href="creating-a-new-save-procedure/creating-a-new-save-references/r_types-of-farms.dita" >
+        <topicmeta>
+          <navtitle>Farms at a Glance</navtitle>
+        </topicmeta>
+      </topicref>
+    </topicref>
+    <topicref type="task" href="creating-a-new-save-procedure/creating-a-new-save-tasks/t_avatar-customization.dita" >
+    </topicref>
+  </topicref>
+
+  <topicref href="farming-spring-crops-procedure/farming-spring-crops-concepts/c_intro-to-farming.dita" type="concept">
+    <topicmeta><navtitle>Geting Started with Farming: Spring Crops</navtitle></topicmeta>
+      <topicref href="farming-spring-crops-procedure/farming-spring-crops-concepts/c_pierres-vs-jojamart.dita" type="concept"></topicref>  
+      <topicref href="farming-spring-crops-procedure/farming-spring-crops-tasks/t_acquiring-seeds.dita" type="task">
+      <topicmeta>
+      <navtitle>Buying Seeds</navtitle>
+      </topicmeta>
+        <topicref href="farming-spring-crops-procedure/farming-spring-crops-references/r_types-of-crops.dita" type="reference"></topicref>
+      </topicref>
+      <topicref href="farming-spring-crops-procedure/farming-spring-crops-concepts/c_seed-maker.dita" type="concept">
+      </topicref>
+      <topicref href="farming-spring-crops-procedure/farming-spring-crops-tasks/t_using-seed-maker.dita" type="task">
+      </topicref>
+      <topicref href="farming-spring-crops-procedure/farming-spring-crops-concepts/c_energy-use.dita" type="concept">
+      </topicref>
+      <topicref href="farming-spring-crops-procedure/farming-spring-crops-references/r_types-of-farming-tools.dita" type="reference">
+      </topicref>
+      <topicref href="farming-spring-crops-procedure/farming-spring-crops-tasks/t_preparing-land-and-planting.dita" type="task">
+      </topicref>
+      <topicref href="farming-spring-crops-procedure/farming-spring-crops-tasks/t_maintaining-crops.dita" type="task">
+      </topicref>
+      <topicref href="farming-spring-crops-procedure/farming-spring-crops-tasks/t_harvesting-crops.dita" type="task">
+      </topicref>
+    </topicref>
+
+</map>
