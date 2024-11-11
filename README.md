@@ -23,9 +23,9 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
 
 ## Filenaming Conventions
 
-- Task Topics: `t_verb_verbobject.dita`
-- Concept Topics: `c_nounphrase.dita`
-- Reference Topics: It varies, but something akin to `r_types_of_nounphrase.dita`
+- Task Topics: `t_verb-verbobject.dita`
+- Concept Topics: `c_noun-phrase.dita`
+- Reference Topics: It varies, but something akin to `r_types-of-nounphrase.dita`
 - Dita Maps: `_modelname.ditamap`
 
 ## Project Maps
@@ -41,30 +41,30 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
   They also want to be sure that they pick a farm type that fits with their aesthetics, but doesn't make the game more or less difficult to play.
 
   #### Map Outline | Audience in Parentheses
-    - c_intro_to_new_saves (introduction for the map name still in draft status)
-      - r_types_of_traits (all)
-      - t_create_required_traits (all) 
-        - c_farm_options (expert* we should point all novices to the standard farm)
-        - c_favorite_things (novice)
-        - r_types_of_farms (expert)
-      - t_avatar_customization (novice)
+    - c_intro-to-new-saves (introduction for the map name still in draft status)
+      - r_types-of-traits (all)
+      - t_create-required-traits (all) 
+        - c_farm-options (expert* we should point all novices to the standard farm)
+        - c_favorite-things (novice)
+        - r_types-of-farms (expert)
+      - t_avatar-customization (novice)
   ### User Scenario 2: Spring Crops
   The user has never played Stardew Valley before, but has been recommended the game by friends. They are pretty new to gaming, and have never played a farming simulation game before, but have played and enjoyed a few open ended RPGs.
 
   Their goal is to learn more about the mechanics of the game to see if Stardew Valley is an appropriate difficulty for them. They also want to see if the variability in game options, and NPC engagement is similar to the RPGs they've played in the past.
 
   #### Map Outline
-    - c_intro_to_farming (all)
-    - c_pierres_vs_joja_mart (novice)
-    - t_buying_seeds (novice)
-      - r_types_of_crops (all)
-    - c_seed_maker (expert)
-    - t_using_seed_maker (expert)
-    - r_farming_tools (all)
-    - c_energy_use (novice)
-    - t_preparing_land_and_planting_seeds (all)
-    - t_maintaining_crops (all)
-    - t_harvesting_crops (all)
+    - c_intro-to-farming (all)
+    - c_pierres-vs-jojamart (novice)
+    - t_buying-seeds (novice)
+      - r_types-of-crops (all)
+    - c_seed-maker (expert)
+    - t_using-seed-maker (expert)
+    - r_farming-tools (novice)
+    - c_energy-use (novice)
+    - t_preparing-land-and-planting-seeds (all)
+    - t_maintaining-crops (all)
+    - t_harvesting-crops (all)
 
 ## Building Outputs with Github Actions
 
