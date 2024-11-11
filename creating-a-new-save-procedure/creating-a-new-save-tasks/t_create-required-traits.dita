@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_enter_unique_id_here">
+<task id="t_create_required_traits">
   <title>How to Choose Required Traits</title>
   <shortdesc>
 The player cannot proceed with the game until they have chosen their required traits. These are the player's name, farm name, favorite thing and farm type. Once the game is started, these cannot be changed until later in the game.
@@ -12,23 +12,23 @@ The player cannot proceed with the game until they have chosen their required tr
   </step>
   <step>
     <cmd>Enter your character's name into the "Name" field.</cmd>
-    <info>Warning: Your cannot change your character's name.</info>
-    <info>FYI: Alex is an example name, the default is blank.</info>
+    <info><b>Warning:</b>You cannot change your character's name.</info>
+    <info><b>FYI:</b> Alex is an example name, the default is blank.</info>
   </step>
   <step>
     <cmd>Type the name you want for your farm into the "Farm Name" field.</cmd>
-    <info>FYI: Daisy Day is an example farm name, the default is blank.</info>
+    <info><b>FYI:</b> Daisy Day is an example farm name, the default is blank.</info>
   </step>
   <step>
     <cmd>Add in something to serve as your favorite thing. Your favorite thing has no impact on game play, but is simply a way for you to add another level of personality to your character!</cmd>
-    <info>FYI: Apple pie is an example, the default favorite thing is blank.</info>
+    <info><b>FYI:</b> Apple pie is an example, the default favorite thing is blank.</info>
   </step>
   <step>
     <cmd>Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.</cmd>
   </step>
   <step>
     <cmd>To select a farm type, hover over the icons of each farm type for a general description of each farm type, click to select that type of farm.</cmd>
-    <info>FYI: A red box will appear to indicate that your selection has gone through</info>
+    <info><b>FYI:</b> A red box will appear to indicate that your selection has gone through</info>
   </step>
 </steps>
   </taskbody>
