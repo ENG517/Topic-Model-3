@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_creating_a_new_save">
+  <title>Creating a New Save in Stardew Valley</title>
+
+  <topicref href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_intro-to-new-saves.dita"  type="concept">
+    <topicmeta>
+      <navtitle>Introduction</navtitle>
+    </topicmeta>
+  </topicref>
+
+   <topicref type="reference" href="creating-a-new-save-procedure/creating-a-new-save-references/r_types-of-traits.dita" >
+  </topicref>
+
+  
+   <topicref type="task" href="creating-a-new-save-procedure/creating-a-new-save-tasks/t_create-required-traits.dita" >
+  </topicref>
+
+  <topicref type="concept" href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_favorite-things.dita" >
+  </topicref>
+  
+   <topicref type="concept" href="creating-a-new-save-procedure/creating-a-new-save-concepts/c_farm-options.dita">
+  </topicref>
+
+
+   <topicref type="reference" href="creating-a-new-save-procedure/creating-a-new-save-references/r_types-of-farms.dita" >
+    <topicmeta>
+      <navtitle>Farms at a Glance</navtitle>
+    </topicmeta>
+  </topicref>
+  
+   <topicref type="task" href="creating-a-new-save-procedure/creating-a-new-save-tasks/t_avatar-customization.dita" >
+  </topicref>
+</map>

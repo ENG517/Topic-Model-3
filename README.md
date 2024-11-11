@@ -38,14 +38,14 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
 
   They aren’t sure where to start, or what all the questions they are being asked mean. Their goal is to create a character that they really like, and won’t have to make changes to later in the game. 
 
-  They also want to be sure that they pick a farm type that fits with their aesthetics, but doesn't make the game more or less difficult to play.
+  They also want to be sure that they pick a farm type doesn't make the game more or less difficult to play.
 
   #### Map Outline | Audience in Parentheses
     - c_intro-to-new-saves (introduction for the map name still in draft status)
       - r_types-of-traits (all)
       - t_create-required-traits (all) 
-        - c_farm-options (expert* we should point all novices to the standard farm)
         - c_favorite-things (novice)
+        - c_farm-options (expert* we should point all novices to the standard farm)
         - r_types-of-farms (expert)
       - t_avatar-customization (novice)
   ### User Scenario 2: Spring Crops
