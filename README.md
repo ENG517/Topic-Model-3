@@ -1,6 +1,6 @@
 # DITA Topic Model - ENTER TITLE OF PROJECT HERE
 
-This repo contains a DITA topic model (TM) related to [enter main goal and topic of your model here].
+This repo contains a DITA topic model (TM) related to teaching users how to play "Stardew Valley", a PC video game, and how to set up their new save, as well as begin farming at the start of the game (which occurs in the spring).
 
 ## Authors
 
