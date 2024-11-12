@@ -15,7 +15,7 @@
       </sthead>
       <strow>
         <stentry><p>Standard Farm</p>
-          <image scope="peer" href="icons/standard_farm_map_icon.png" alt="Pixel art of a red farm house on a yellow-brown swath of land. This icon is the same icon used in the save creation menu."/>
+          <image href="icons/standard_farm_map_icon.png" alt="Pixel art of a red farm house on a yellow-brown swath of land. This icon is the same icon used in the save creation menu."/>
         </stentry>
         <stentry>3427</stentry>
         <stentry>235</stentry>
@@ -23,7 +23,7 @@
       </strow>
        <strow>
         <stentry><p>Riverland Farm</p>
-          <image scope="peer" href="icons/riverland_farm_map_icon.png" alt="Pixel art of a teal house on a sandy piece of land surrounded by water. This is the same icon used in the save creation menu for the riverland farm." />
+          <image href="icons/riverland_farm_map_icon.png" alt="Pixel art of a teal house on a sandy piece of land surrounded by water. This is the same icon used in the save creation menu for the riverland farm." />
         </stentry>
         <stentry>1578</stentry>
         <stentry>516</stentry>
@@ -31,7 +31,7 @@
       </strow>
        <strow>
         <stentry><p>Forest Farm</p>
-          <image scope="peer" href="icons/forest_farm_map_icon.png" alt="Pixel art of an orange house on a dark green piece of land surrounded by trees. This is the same icon used in the save creation menu for the forest farm" />
+          <image href="icons/forest_farm_map_icon.png" alt="Pixel art of an orange house on a dark green piece of land surrounded by trees. This is the same icon used in the save creation menu for the forest farm" />
         </stentry>
         <stentry>1413</stentry>
         <stentry>1490</stentry>
@@ -39,7 +39,7 @@
       </strow>
        <strow>
         <stentry><p>Hill-Top Farm</p>
-          <image scope="peer" href="icons/forest_farm_map_icon.png" alt="Pixel art of an orange house on a dark green piece of land surrounded by trees. This is the same icon used in the save creation menu for the forest farm" />
+          <image href="icons/forest_farm_map_icon.png" alt="Pixel art of an orange house on a dark green piece of land surrounded by trees. This is the same icon used in the save creation menu for the forest farm" />
         </stentry>
         <stentry>1648</stentry>
         <stentry>930</stentry>
@@ -47,7 +47,7 @@
       </strow>
        <strow>
         <stentry><p>Wilderness Farm</p>
-          <image scope="peer" href="icons/wilderness_farm_map_icon.png" alt="Pixel art of a black house on a dark brown piece of land surrounded by a dark blue night sky. This is the same icon used in the save creation menu for the wildernes farm" />
+          <image href="icons/wilderness_farm_map_icon.png" alt="Pixel art of a black house on a dark brown piece of land surrounded by a dark blue night sky. This is the same icon used in the save creation menu for the wildernes farm" />
         </stentry>
         <stentry>2131</stentry>
         <stentry>444</stentry>
@@ -55,7 +55,7 @@
       </strow>
        <strow>
         <stentry><p>Four Corners Farm</p>
-          <image scope="peer" href="icons/four_corners_farm_map_icon.png" alt="Pixel art of a four houses orange in the top left, red in the top right, purple in the bottom left, and teal in the bottom right. This is the same icon used in the save creation menu for the Four corners farm" />
+          <image href="icons/four_corners_farm_map_icon.png" alt="Pixel art of a four houses orange in the top left, red in the top right, purple in the bottom left, and teal in the bottom right. This is the same icon used in the save creation menu for the Four corners farm" />
         </stentry>
         <stentry>2952</stentry>
         <stentry>All buildable tiles are also tillable.</stentry>
@@ -63,7 +63,7 @@
       </strow>
        <strow>
         <stentry><p>Beach Farm</p>
-          <image scope="peer" href="icons/beach_farm_map_icon.png" alt="Pixel art of a light green house on a beachy piece of land with ocean in the bottom left corner. This is the same icon used in the save creation menu for the beach farm" />
+          <image href="icons/beach_farm_map_icon.png" alt="Pixel art of a light green house on a beachy piece of land with ocean in the bottom left corner. This is the same icon used in the save creation menu for the beach farm" />
         </stentry>
         <stentry>2700</stentry>
         <stentry>1928</stentry>
@@ -71,7 +71,7 @@
       </strow>
        <strow>
         <stentry><p>Meadowlands Farm</p>
-          <image scope="peer" href="icons/meadowlands_farm_map_icon.png" alt="Pixel art of a grey house on a grassy piece of land with animals and a cloudy sky. This is the same icon used in the save creation menu for the meadowlands farm" />
+          <image href="icons/meadowlands_farm_map_icon.png" alt="Pixel art of a grey house on a grassy piece of land with animals and a cloudy sky. This is the same icon used in the save creation menu for the meadowlands farm" />
         </stentry>
         <stentry>2066</stentry>
         <stentry>All buildable tiles are also tillable.</stentry>

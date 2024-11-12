@@ -12,7 +12,7 @@
       <cmd>Equip one or more of the crop you wish to turn into seeds.</cmd>
     </step>
     <step>
-      <note> <b>Caution:</b> If you have a stack of crops equipped all of them will be converted into seeds.</note>
+      <note> If you have a stack of crops equipped all of them will be converted into seeds.</note>
      <cmd>Right click to place them in the seed maker.</cmd>
     </step>
     <step>
