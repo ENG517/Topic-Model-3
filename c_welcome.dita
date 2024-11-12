@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_enter_unique_id_here">
-  <title></title>
+<concept id="c_welcome">
+  <title>Welcome!</title>
   <shortdesc>
-
+  Whether you are new to the game, or just want a refresher this guide is here to help you through the earliest stages of set-up and game play!
   </shortdesc>
-  <conbody>
-
-  </conbody>
+  <conbody></conbody>
 </concept>

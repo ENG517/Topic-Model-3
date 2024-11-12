@@ -11,7 +11,7 @@
       <step>
         <cmd audience="novice">Hover over the crop you wish to harvest and right click. </cmd>
         <info>
-          <p>The harvested crop should imeediately enter your inventory. If it does not, consult the following table:</p>
+          <p>The harvested crop should imediately enter your inventory. If it does not, consult the following table:</p>
           <simpletable>
           <sthead>
             <stentry>Problem</stentry>
@@ -40,7 +40,7 @@
         <stepresult>You should be brought to a screen that resembles your inventory with an extra box on top of the existing rows.</stepresult>
       </step>
       <step>
-        <note>Once an item has been sold it can not be reclaimed.</note>
+        <note><b>FYI:</b>Once an item has been sold it can not be reclaimed.</note>
         <cmd>Right click the crops in your inventory to sell them.</cmd>
         <stepresult>The full stack of crops should popuate in the selling window, and a thudding sound effect should play.</stepresult>
       </step>

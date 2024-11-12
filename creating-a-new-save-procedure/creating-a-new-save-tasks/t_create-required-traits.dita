@@ -27,6 +27,7 @@ The player cannot proceed with the game until they have chosen their required tr
     <cmd>Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.</cmd>
   </step>
   <step>
+    <note audience="novice"> New players should select the standard farm for their first game.</note>
     <cmd>To select a farm type, hover over the icons of each farm type for a general description of each farm type, click to select that type of farm.</cmd>
     <info><b>FYI:</b> A red box will appear to indicate that your selection has gone through</info>
   </step>

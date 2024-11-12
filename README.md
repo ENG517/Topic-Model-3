@@ -26,26 +26,30 @@ This repo contains a DITA topic model (TM) related to teaching users how to play
 - Task Topics: `t_verb-verbobject.dita`
 - Concept Topics: `c_noun-phrase.dita`
 - Reference Topics: It varies, but something akin to `r_types-of-nounphrase.dita`
-- Dita Maps: `_modelname.ditamap`
+- Dita Maps: `m_map-title.ditamap`
 
 ## Project Maps
-  ### Big Boy Map
+  ### Combined Maps
     - c_welcome
-    - Submaps for each scenario
+    - Creating a new save map content
+    - Getting started with farming map content
+  
+  Initially, this was supposed to be a map made of two submaps, however due to issues linking images the combining of the maps was done manually. As part of the revision process for the following project, we hope to resolve some of these issues and then combine the maps as initially intended.
+
   ### User Scenario 1: Creating a New Save
   The user has just made the decision to download the game, and is creating their first save. They are overwhelmed by the amount of options available for character customization and farm type. 
   While they have never played Stardew Valley before, they have played other simulations and RPGs.
 
   They aren’t sure where to start, or what all the questions they are being asked mean. Their goal is to create a character that they really like, and won’t have to make changes to later in the game. 
 
-  They also want to be sure that they pick a farm type that fits with their aesthetics, but doesn't make the game more or less difficult to play.
+  They also want to be sure that they pick a farm type doesn't make the game more or less difficult to play.
 
   #### Map Outline | Audience in Parentheses
     - c_intro-to-new-saves (introduction for the map name still in draft status)
       - r_types-of-traits (all)
       - t_create-required-traits (all) 
-        - c_farm-options (expert* we should point all novices to the standard farm)
         - c_favorite-things (novice)
+        - c_farm-options (expert* we should point all novices to the standard farm)
         - r_types-of-farms (expert)
       - t_avatar-customization (novice)
   ### User Scenario 2: Spring Crops
@@ -60,8 +64,8 @@ This repo contains a DITA topic model (TM) related to teaching users how to play
       - r_types-of-crops (all)
     - c_seed-maker (expert)
     - t_using-seed-maker (expert)
-    - r_farming-tools (novice)
     - c_energy-use (novice)
+    - r_farming-tools (novice)
     - t_preparing-land-and-planting-seeds (all)
     - t_maintaining-crops (all)
     - t_harvesting-crops (all)
