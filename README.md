@@ -1,4 +1,4 @@
-# DITA Topic Model - ENTER TITLE OF PROJECT HERE
+# DITA Topic Model - An Introduction to Stardew Valley
 
 This repo contains a DITA topic model (TM) related to teaching users how to play "Stardew Valley", a PC video game, and how to set up their new save, as well as begin farming at the start of the game (which occurs in the spring).
 
@@ -36,28 +36,16 @@ This repo contains a DITA topic model (TM) related to teaching users how to play
   
   Initially, this was supposed to be a map made of two submaps, however due to issues linking images the combining of the maps was done manually. As part of the revision process for the following project, we hope to resolve some of these issues and then combine the maps as initially intended.
 
-  ### User Scenario 1: Creating a New Save
-  The user has just made the decision to download the game, and is creating their first save. They are overwhelmed by the amount of options available for character customization and farm type. 
-  While they have never played Stardew Valley before, they have played other simulations and RPGs.
-
-  They aren’t sure where to start, or what all the questions they are being asked mean. Their goal is to create a character that they really like, and won’t have to make changes to later in the game. 
-
-  They also want to be sure that they pick a farm type doesn't make the game more or less difficult to play.
-
-  #### Map Outline | Audience in Parentheses
-    - c_intro-to-new-saves (introduction for the map name still in draft status)
+  ### Creating a New Save Map
+    - c_intro-to-new-saves
       - r_types-of-traits (all)
       - t_create-required-traits (all) 
         - c_favorite-things (novice)
         - c_farm-options (expert* we should point all novices to the standard farm)
         - r_types-of-farms (expert)
       - t_avatar-customization (novice)
-  ### User Scenario 2: Spring Crops
-  The user has never played Stardew Valley before, but has been recommended the game by friends. They are pretty new to gaming, and have never played a farming simulation game before, but have played and enjoyed a few open ended RPGs.
-
-  Their goal is to learn more about the mechanics of the game to see if Stardew Valley is an appropriate difficulty for them. They also want to see if the variability in game options, and NPC engagement is similar to the RPGs they've played in the past.
-
-  #### Map Outline
+  
+  ### Farming Spring Crops Map
     - c_intro-to-farming (all)
     - c_pierres-vs-jojamart (novice)
     - t_buying-seeds (novice)
