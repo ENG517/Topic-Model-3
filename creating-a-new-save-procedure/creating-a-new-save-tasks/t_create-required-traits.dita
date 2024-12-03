@@ -11,9 +11,19 @@ The player cannot proceed with the game until they have chosen their required tr
     <cmd>Launch Stardew Valley, and click New on the bottom-left corner. You will be brought to the character and farm creation page.</cmd>
   </step>
   <step>
-    <cmd>Enter your character's name into the "Name" field.</cmd>
-    <info><b>Warning:</b>You cannot change your character's name.</info>
-    <info><b>FYI:</b> Alex is an example name, the default is blank.</info>
+    <!-- You can use the note element in steps, but our Redhat tool tells us it should only be used before the command. Check out the note element and its type attribute: https://www.oxygenxml.com/dita/1.3/specs/langRef/base/note.html?hl=note -->
+    <note type="important">
+      You cannot change your character's name.
+    </note>
+    <!-- All UI controls should be contained by uicontrol. In this case, Name. -->
+    <cmd>
+      Enter your character's name into the "Name" field.
+    </cmd>
+    <stepxmp><b>FYI:</b> Alex is an example name, the default is blank.</stepxmp>
+    <!-- <info>
+      <b>Warning:</b>You cannot change your character's name.
+    </info> -->
+    <!-- <info><b>FYI:</b> Alex is an example name, the default is blank.</info> -->
   </step>
   <step>
     <cmd>Type the name you want for your farm into the "Farm Name" field.</cmd>
