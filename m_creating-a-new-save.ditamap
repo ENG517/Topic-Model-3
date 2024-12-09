@@ -8,19 +8,17 @@
       <navtitle>Introduction</navtitle>
     </topicmeta>
   </topicref>
-   <topicref type="reference" href="references/r_types-of-traits.dita" >
+
+  <topicref type="reference" href="references/r_types-of-traits.dita"/>
+  <topicref type="task" href="tasks/t_create-required-traits.dita"/>
+  <topicref type="concept" href="concepts/c_favorite-things.dita"/>
+  <topicref type="concept" href="concepts/c_farm-options.dita"/>
+  
+  <topicref type="reference" href="references/r_types-of-farms.dita">
+    <topicmeta>
+      <navtitle>Farms at a Glance</navtitle>
+    </topicmeta>
   </topicref>
-   <topicref type="task" href="tasks/t_create-required-traits.dita" >
-    <topicref type="concept" href="concepts/c_favorite-things.dita" >
-    </topicref>
-    <topicref type="concept" href="concepts/c_farm-options-files/c_farm-options.dita">
-    </topicref>
-    <topicref type="reference" href="references/r_types-of-farms.dita" >
-      <topicmeta>
-        <navtitle>Farms at a Glance</navtitle>
-      </topicmeta>
-    </topicref>
-   </topicref>
-   <topicref type="task" href="tasks/t_avatar-customization.dita" >
-  </topicref>
+
+  <topicref type="task" href="tasks/t_avatar-customization.dita"/>
 </map>
