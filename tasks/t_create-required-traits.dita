@@ -8,7 +8,7 @@ The player cannot proceed with the game until they have chosen their required tr
   <taskbody>
 <steps>
   <step>
-    <cmd>Launch Stardew Valley, and click New on the bottom-left corner. You will be brought to the character and farm creation page.</cmd>
+    <cmd>Launch Stardew Valley, and click <uicontrol>New</uicontrol> on the bottom-left corner. You will be brought to the character and farm creation page.</cmd>
   </step>
   <step>
     <note type="note">Alex is an example name, the default is blank.</note>

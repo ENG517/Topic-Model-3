@@ -35,7 +35,7 @@
         <li>Add food to the hotbbar (top row of your inventory)</li>
         <li>Select that food item by pressing the associated key</li>
         <li>Right click with the food item in your hand</li>
-        <li>Select yes from the resulting pop-up</li>
+        <li>Select <uicontrol>Yes</uicontrol> from the resulting pop-up</li>
       </ol>
       <p> Once you have eaten the food item you will get a notification in the bottom left of the screen to show the energy and health gained by eating the food, and your energy bar will increase.</p>
       <p></p>
