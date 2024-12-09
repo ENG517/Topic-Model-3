@@ -3,7 +3,7 @@
 <task id="t_create_required_traits">
   <title>How to Choose Required Traits</title>
   <shortdesc>
-    sThe player cannot proceed with the game until they have chosen their required traits. These are the player's name, farm name, favorite thing and farm type. Once the game is started, these cannot be changed until later in the game.
+    The player cannot proceed with the game until they have chosen their required traits. These are the player's name, farm name, favorite thing and farm type. Once the game is started, these cannot be changed until later in the game.
   </shortdesc>
   <taskbody>
 <steps>
