@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_intro_to_new_save">
+  <!-- COMMENTS
+    Consider how this entire topic is not conceptual, but task-oriented; namely, you are not explaining the concept of "New Saves." Instead, you are explaining "How to Create New Saves." At one point you also write, "This set of instructions ..." This is a task topic, so be sure to convert it as such.
+
+    Instead of this save idea as a concept, it seems like your audience may need more conceptual information about traits and their function in the game, since you have a task topic devoted to that practice.
+  -->
   <title>New Saves in Stardew Valley</title>
   <shortdesc>
-  To replay, or begin playing, Stardew Valley, you need to start a new save. This process includes creating your avatar, starting your new farm, and planting crops.
+    To replay, or begin playing, Stardew Valley, you need to start a new save. This process includes creating your avatar, starting your new farm, and planting crops.
   </shortdesc>
   <conbody>
     <p>
-    Part of the charm of Stardew Valley is the ability to customize your farm to your liking, however with little to no direction the character creation and farm selection process can be a bit intimidating. This set of instructions aims to demystify this process so that you can have the character and farm set from the get go!
+      Part of the charm of Stardew Valley is the ability to customize your farm to your liking, however with little to no direction the character creation and farm selection process can be a bit intimidating. This set of instructions aims to demystify this process so that you can have the character and farm set from the get go!
     </p>
     <p>
       To create a new save in Stardew Valley, you must:
@@ -18,7 +23,7 @@
       <li>Have Version 1.6 of Stardew Valley installed</li>
     </ul>
     <p>
-    Once you have the ability to play the game, having completed all the prerequisites, you will need to complete the following to set up the new save.
+      Once you have the ability to play the game, having completed all the prerequisites, you will need to complete the following to set up the new save.
     </p>
     <ol>
       <li>Create required character traits (this is your avatar's name, farm name, and favorite thing)</li>
@@ -26,7 +31,7 @@
       <li>Design your avatar</li>
     </ol>
     <p>
-    Once you are happy with all of your choices for your avatar, you can proceed with Stardew Valley!
+      Once you are happy with all of your choices for your avatar, you can proceed with Stardew Valley!
     </p>
   </conbody>
 </concept>
