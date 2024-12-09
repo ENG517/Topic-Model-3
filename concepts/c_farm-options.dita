@@ -8,10 +8,10 @@
   <conbody>
     <section>
       <title>Standard Farm</title>
-      <image href="standard_farm_map_icon.png" alt="Pixel art of a red farm house on a yellow-brown swath of land. This icon is the same icon used in the save creation menu." />
+      <image href="../assets/images/standard_farm_map_icon.png" alt="Pixel art of a red farm house on a yellow-brown swath of land. This icon is the same icon used in the save creation menu." />
       <p>
       <b>Description</b>
-      Standard farms are the original farm type released with version 1.0 of Stardew Valley. These maps are mostly farming land, making ideal for raising both crops and animals. This farm type is reccomened for beginner players
+      Standard farms are the original farm type released with version 1.0 of Stardew Valley. These maps are mostly farming land, making ideal for raising both crops and animals. This farm type is recommended for beginner players
 
       There are two small ponds on the property, but fishing in these ponds will only yield trash.
       </p>
@@ -20,12 +20,12 @@
       Farming (crops)
       </p>
       <p><b>Farm Layout</b></p>
-      <image href= "standard-farm-map.png" alt="A map of the standard farm in stardew valley. The farmhouse and greenhouse are sit at the top middle of the map, and there are two small ponds on the property." width = "243" height = "199px" />
+      <image href="../assets/images/standard-farm-map.png" alt="A map of the standard farm in stardew valley. The farmhouse and greenhouse are sit at the top middle of the map, and there are two small ponds on the property." width = "243" height = "199px" />
     </section>
 
     <section>
       <title>Riverland Farm</title>
-      <image href="riverland_farm_map_icon.png" alt="Pixel art of a teal house on a sandy piece of land surrounded by water. This is the same icon used in the save creation menu for the riverland farm."/>
+      <image href="../assets/images/riverland_farm_map_icon.png" alt="Pixel art of a teal house on a sandy piece of land surrounded by water. This is the same icon used in the save creation menu for the riverland farm."/>
       <p>
         <b>Description</b>
         The map for the riverland farm is mostly water, significantly decreasing the overall farming area. However, players are able to catch the same fish that are found in Pelican Town from their farm.
@@ -34,12 +34,12 @@
       Fishing
       </p>
       <p><b>Farm Layout</b></p>
-      <image href="riverland-farm-map.png" alt="A map of the riverlands farm in stardew valley. There are small islands connected by bridges. Each island is surrounded by fresh water." width = "243" height = "199px" />
+      <image href="../assets/images/riverland-farm-map.png" alt="A map of the riverlands farm in stardew valley. There are small islands connected by bridges. Each island is surrounded by fresh water." width = "243" height = "199px" />
     </section>
 
     <section>
       <title>Forest Farm</title>
-      <image href="forest_farm_map_icon.png" alt="Pixel art of an orange house on a dark green piece of land surrounded by trees. This is the same icon used in the save creation menu for the forest farm"/>
+      <image href="../assets/images/forest_farm_map_icon.png" alt="Pixel art of an orange house on a dark green piece of land surrounded by trees. This is the same icon used in the save creation menu for the forest farm"/>
       <p>
         <b>Description</b>
         There are many trees found all around the map. The following items spawn in the west area of the map:
@@ -62,12 +62,12 @@
       Foraging
       </p>
       <p><b>Farm Layout</b></p>
-      <image href="forest-farm-map.png" alt="A map of the forest farm in stardew valley. the farm is surrounded on all sides by dark green woods, with areas for growing trees and bushes. There are four small ponds surrounded by tan farm land." width = "243" height = "199px" />
+      <image href="../assets/images/forest-farm-map.png" alt="A map of the forest farm in stardew valley. the farm is surrounded on all sides by dark green woods, with areas for growing trees and bushes. There are four small ponds surrounded by tan farm land." width = "243" height = "199px" />
     </section> 
 
     <section>
       <title>Hill-Top</title>
-      <image href="hilltop_farm_map_icon.png" alt="Pixel art of a purple house on an orange piece of land surrounded by dark brown cliffs. This is the same icon used in the save creation menu for the Hill-Top farm"/>
+      <image href="../assets/images/hilltop_farm_map_icon.png" alt="Pixel art of a purple house on an orange piece of land surrounded by dark brown cliffs. This is the same icon used in the save creation menu for the Hill-Top farm"/>
       <p>
         <b>Description</b>
         The hill-top farm features a series of cliffs and a stream. There is also a special mining area in the southwest corner of the map that spawns the following items:
@@ -81,12 +81,12 @@
       Mining
       </p>
       <p><b>Farm Layout</b></p>
-      <image href="hilltop-farm-map.png" alt="A map of the hill-top farm in stardew valley. There is a stream that runs through the center of the farm. There are several terraced areas of farm land and a small quarry area." width = "243" height = "199px" />
+      <image href="../assets/images/hilltop-farm-map.png" alt="A map of the hill-top farm in stardew valley. There is a stream that runs through the center of the farm. There are several terraced areas of farm land and a small quarry area." width = "243" height = "199px" />
     </section> 
 
     <section>
       <title>Wilderness Farm</title>
-      <image href="wilderness_farm_map_icon.png" alt="Pixel art of a black house on a dark brown piece of land surrounded by a dark blue night sky. This is the same icon used in the save creation menu for the wildernes farm"/>
+      <image href="../assets/images/wilderness_farm_map_icon.png" alt="Pixel art of a black house on a dark brown piece of land surrounded by a dark blue night sky. This is the same icon used in the save creation menu for the wildernes farm"/>
       <p>
         <b>Description</b>
         On the Wilderness Farm, monsters spawn at night. The number of mosters that spawn increase as the player's combat level grows. Among these mosters is the Wildreness Golem, which is a monster found only on this kind of farm. <b>This is not reccomended for new players.</b>
@@ -95,12 +95,12 @@
       Combat
       </p>
       <p><b>Farm Layout</b></p>
-      <image href="wilderness-farm-map.png" alt="A map of the wilderness farm from stardew valley. There is a large piece of tree-filled farm land surrounded by cliffs on tree sides, and a small lake in the bottom left. There is a second small pond in the middle of the farm." width = "243" height = "199px" />
+      <image href="../assets/images/wilderness-farm-map.png" alt="A map of the wilderness farm from stardew valley. There is a large piece of tree-filled farm land surrounded by cliffs on tree sides, and a small lake in the bottom left. There is a second small pond in the middle of the farm." width = "243" height = "199px" />
     </section> 
 
     <section>
       <title>Four Corners Farm</title>
-      <image href="four_corners_farm_map_icon.png" alt="Pixel art of a four houses orange in the top left, red in the top right, purple in the bottom left, and teal in the bottom right. This is the same icon used in the save creation menu for the Four corners farm"/>
+      <image href="../assets/images/four_corners_farm_map_icon.png" alt="Pixel art of a four houses orange in the top left, red in the top right, purple in the bottom left, and teal in the bottom right. This is the same icon used in the save creation menu for the Four corners farm"/>
       <p>
         <b>Description</b>
         The Four Corners Farm is designed for multiplayer games. There are four distinct sections of the farm that are tailored to different skills:
@@ -126,12 +126,12 @@
       Multiplayer
       </p>
       <p><b>Farm Layout</b></p>
-      <image href="four-corners-farm-map.png" alt="A map of the four corners farm from stardew valley. The farm is split into four sections by cliffs. There is a small pond in the bottom left corner." width = "243" height = "199px" />
+      <image href="../assets/images/four-corners-farm-map.png" alt="A map of the four corners farm from stardew valley. The farm is split into four sections by cliffs. There is a small pond in the bottom left corner." width = "243" height = "199px" />
     </section> 
 
     <section>
       <title>Beach Farm</title>
-      <image href="beach_farm_map_icon.png" alt="Pixel art of a light green house on a beachy piece of land with ocean in the bottom left corner. This is the same icon used in the save creation menu for the beach farm"/>
+      <image href="../assets/images/beach_farm_map_icon.png" alt="Pixel art of a light green house on a beachy piece of land with ocean in the bottom left corner. This is the same icon used in the save creation menu for the beach farm"/>
       <p>
         <b>Description</b> 
         The Beach Farm is mostly sand, which cannot be watered by sprinklers. All of the water surrounding the land is fishable, and ocean fish will be caught when fishing on the farm. Additionally, beach forage items will spawn on the shores. Occasionally, supply crates will wash up with a random variety of useful items.
@@ -140,12 +140,12 @@
       Fishing &#x26; Foraging
       </p>
       <p><b>Farm Layout</b></p>
-      <image href="beach-farm-map.png" alt="A map for the beach farm in Stardew Valley. Thh farm sits on a square penninsula that is mostly sand, with a small area of grassy farm land in the bottom left corner. There are two very small pools of fresh water on the farm." width = "243" height = "199px" />
+      <image href="../assets/images/beach-farm-map.png" alt="A map for the beach farm in Stardew Valley. Thh farm sits on a square penninsula that is mostly sand, with a small area of grassy farm land in the bottom left corner. There are two very small pools of fresh water on the farm." width = "243" height = "199px" />
     </section> 
 
     <section>
       <title>Meadowlands Farm</title>
-      <image href="meadowlands_farm_map_icon.png" alt="Pixel art of a grey house on a grassy piece of land with animals and a cloudy sky. This is the same icon used in the save creation menu for the meadowlands farm"/>
+      <image href="../assets/images/meadowlands_farm_map_icon.png" alt="Pixel art of a grey house on a grassy piece of land with animals and a cloudy sky. This is the same icon used in the save creation menu for the meadowlands farm"/>
       <p>
         <b>Description</b>
         Chewy blue grass, which animals love, grows on the Meadowlands Farm. Rather than starting with just a farm house and parsnip seeds, players begin with a coop, two chickens, and 15 pieces of hay. The river on the land is fishable, and you can catch Cindersap Forest fish.
@@ -154,7 +154,7 @@
       Farming (animals)
       </p>
       <p><b>Farm Layout</b></p>
-      <image href="meadowlands-farm-map.png" alt="A map of the meadowlands farm in Stardew Valley. The farm is mostly green space with a small area of tan farm land in the bottom left. A stream runs along the left side and across the top of the farm. There are three small ponds on the farm." width = "243" height = "199px" />
+      <image href="../assets/images/meadowlands-farm-map.png" alt="A map of the meadowlands farm in Stardew Valley. The farm is mostly green space with a small area of tan farm land in the bottom left. A stream runs along the left side and across the top of the farm. There are three small ponds on the farm." width = "243" height = "199px" />
     </section> 
   </conbody>
 </concept>
