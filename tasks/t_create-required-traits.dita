@@ -8,7 +8,7 @@ The player cannot proceed with the game until they have chosen their required tr
   <taskbody>
 <steps>
   <step>
-    <cmd>Launch Stardew Valley, and click New on the bottom-left corner. You will be brought to the character and farm creation page.</cmd>
+    <cmd>Launch Stardew Valley, and click <uicontrol>New</uicontrol> on the bottom-left corner. You will be brought to the character and farm creation page.</cmd>
   </step>
   <step>
     <!-- You can use the note element in steps, but our Redhat tool tells us it should only be used before the command. Check out the note element and its type attribute: https://www.oxygenxml.com/dita/1.3/specs/langRef/base/note.html?hl=note -->
@@ -17,7 +17,7 @@ The player cannot proceed with the game until they have chosen their required tr
     </note>
     <!-- All UI controls should be contained by uicontrol. In this case, Name. -->
     <cmd>
-      Enter your character's name into the "Name" field.
+      Enter your character's name into the <uicontrol>Name</uicontrol> field.
     </cmd>
     <stepxmp><b>FYI:</b> Alex is an example name, the default is blank.</stepxmp>
     <!-- <info>
@@ -26,11 +26,11 @@ The player cannot proceed with the game until they have chosen their required tr
     <!-- <info><b>FYI:</b> Alex is an example name, the default is blank.</info> -->
   </step>
   <step>
-    <cmd>Type the name you want for your farm into the "Farm Name" field.</cmd>
+    <cmd>Type the name you want for your farm into the <uicontrol>Farm Name</uicontrol> field.</cmd>
     <info><b>FYI:</b> Daisy Day is an example farm name, the default is blank.</info>
   </step>
   <step>
-    <cmd>Add in something to serve as your favorite thing. Your favorite thing has no impact on game play, but is simply a way for you to add another level of personality to your character!</cmd>
+    <cmd>Add in something to serve as your favorite thing into the <uicontrol>Favorite Thing</uicontrol> field. Your favorite thing has no impact on game play, but is simply a way for you to add another level of personality to your character!</cmd>
     <info><b>FYI:</b> Apple pie is an example, the default favorite thing is blank.</info>
   </step>
   <step>
