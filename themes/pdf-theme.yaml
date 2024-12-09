@@ -59,7 +59,7 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Sawarabi Gothic, Arial Unicode MS'
+    copy: 'Sawarabi Gothic, Arial'
     heading1: 'Jersey 10 Charted Regular, Times New Roman'
     otherheadings: 'Jersey 20 Regular, Times New Roman'
     display: 'Press Start 2p Regular, Impact'
@@ -135,7 +135,7 @@ style:
     color: $colors-accent2-main
   
   li:
-    margin-bottom: $spacing-lines-medium
+    margin-bottom: $spacing-lines-xsmall
     font-family: $fonts-families-copy
     label:
       color: $colors-primary-s1
