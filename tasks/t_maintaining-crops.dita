@@ -3,7 +3,7 @@
 <task id="t_maintaining-crops">
   <title>Watering Planted Crops</title>
   <shortdesc>
-In order for your crops to grow, they must be watered on a daily basis until they are ready to harvest. If you miss a day of watering, your crops will not die, but they also will not progress to the next stage of growth.
+    In order for your crops to grow, they must be watered on a daily basis until they are ready to harvest. If you miss a day of watering, your crops will not die, but they also will not progress to the next stage of growth.
   </shortdesc>
   <taskbody>
     <prereq>You will need a watering can, which was provided at the start of the game, to water your crops.</prereq>
