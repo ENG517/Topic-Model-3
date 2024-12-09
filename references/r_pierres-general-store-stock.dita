@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_pierres_general_store_stock">
+  <title>Pierre's Year Round Stock</title>
+  <shortdesc>
+    Pierre's carries a variety of farming items. While seeds are offered seasonally, but he also offers a plethora of year-round stock.
+  </shortdesc>
+  <refbody>
+    <section>
+      <title>Year Round Stock</title>
+      <ul>
+        <li>Apple, apricot, cherry, orange, peach and pomegranate saplings</li>
+        <li>Basic and quality fertilizer</li>
+        <li>Basic and quality retaining soil</li>
+        <li>Bouquet</li>
+        <li>Catalogue</li>
+        <li>Dehydrator recipe</li>
+        <li>Flooring (random pattern each day)</li>
+        <li>Grass starter</li>
+        <li>Grass starter recipe</li>
+        <li>Oil</li>
+        <li>Rice</li>
+        <li>Regular and deluxe Speed-Gro</li>
+        <li>Sugar</li>
+        <li>Vinegar</li>
+        <li>Wallpaper (random each day)</li>
+        <li>Wheat flour</li>
+      </ul>
+      <note type='tip'> You can also buy backpack upgrades from Pierre to unlock the second and third slots of your inventory.</note>
+    </section>
+  </refbody>
+</reference>

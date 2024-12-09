@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_store_options" audience="novice">
+  <title>Store Options</title>
+  <shortdesc>
+    There are two main stores where you can buy seeds consistently: Pierre's General Store and JojaMart. 
+  </shortdesc>
+  <conbody>
+    <p>
+    The two stores offer different prices, permanent stock options, and hold different hours. While you can shop at both in the beginning of the game, you will eventually need to choose between Pierre's small local business, or the corporate convenience of JojaMart.
+    </p>
+  </conbody>
+</concept>
