@@ -8,41 +8,21 @@
   <taskbody>
     <steps>
      <step>
+      <note type="note">While selecting a character's sex will change the starting selections for the character's hair and outfit, all preset options are available regardless of the character's sex.</note>
       <cmd>Choose the character’s sex. It is best to select this first as the clothing and hair styles will change if you decide to switch the sex of your character later.</cmd>
-      <info><b>Info:</b> While selecting a character's sex will change the starting selections for the character's hair and outfit, all preset options are available regardless of the character's sex.</info>
      </step>
      <step>
       <cmd>Click the arrows to flip through all set appearance options for Skin Color, Hair Style, Shirt, Pants, and Accents.</cmd>
      </step>
       <step>
+        <note type="note">The number in the middle of the arrows will change to indicate which option you have selected. Don't worry if you don't like your clothes, you can make and add more clothing later in the game.</note>
         <cmd>Click the arrows to flip through all set appearance options for Skin Color, Hair Style, Shirt, Pants and Accents.</cmd>
-        <info> <b>FYI:</b> The number in the middle of the arrows will change to indicate which option you have selected. Don't worry if you don't like your clothes, you can make and add more clothing later in the game.</info>
       </step>
       <step>
+        <note type="tip">It's best to think of the color selection process like mixing paint with set amounts of paint. First you pick the base color, then you can mix in white and/or black to change the shade. The number next to the color selection slider shows the base you have selected. The number next to the other two displays the percentage of base color in the final shade</note>
         <cmd>Select the color of your avatar's eyes, shirt and pants using hue, lightness and darkness sliders.</cmd>
-        <substeps>
-          <!-- I'd add a small image of the icon with the image element for these uicontrols to help users orient themselves -->
-          <substep>
-            <!-- Revised as a set of substeps, since it's actually a procedure. I also used a note element that prefaces the initial command. Just a suggestion, but consider how your original version with the info element is really a sub processes, which I might argue is more semantic in this format.-->
-            <note type="tip">
-              Before you select your colors, consider the color selection process like mixing paint with set amounts of paint. The number next to the color selection slider shows the base you have selected. The number next to the other two displays the percentage of base color in the final shade.
-            </note>
-            <cmd>
-              Pick the base color.
-            </cmd>
-          </substep>
-          <substep>
-            <cmd>
-               Mix in white and/or black to change the shade.
-            </cmd>
-          </substep>
-        </substeps>
-        <!-- <info>
-          <b>Tip:</b> It's best to think of the color selection process like mixing paint with set amounts of paint. First you pick the base color, then you can mix in white and/or black to change the shade. The number next to the color selection slider shows the base you have selected. The number next to the other two displays the percentage of base color in the final shade.
-        </info> -->
       </step>
       <step>
-        <!-- Do these bars have specific names to use? -->
         <cmd>Slide the cursor of the top, rainbow colored bar to select the color family you want for this feature (i.e. red, orange, yellow, green, blue, etc.)</cmd>
       </step>
       <step>

@@ -40,7 +40,7 @@
         <stepresult>You should be brought to a screen that resembles your inventory with an extra box on top of the existing rows.</stepresult>
       </step>
       <step>
-        <note><b>FYI:</b>Once an item has been sold it can not be reclaimed.</note>
+        <note type="note">Once an item has been sold it can not be reclaimed.</note>
         <cmd>Right click the crops in your inventory to sell them.</cmd>
         <stepresult>The full stack of crops should popuate in the selling window, and a thudding sound effect should play.</stepresult>
       </step>
