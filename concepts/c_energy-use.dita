@@ -2,8 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_energy_use">
   <title>Using Energy to Complete Tasks</title>
+  <!-- Fix the indentation on these shortdesc's throughout -->
   <shortdesc>
-Any time you use a tool (with the exceptions of scythes and pans), engage in combat, or move a chest in Stardew Valley, it will deplete some of your energy. You will need to pay attention to this level each day as you complete tasks around the farm, and in Pelican Town.
+    Any time you use a tool (with the exceptions of scythes and pans), engage in combat, or move a chest in Stardew Valley, it will deplete some of your energy. You will need to pay attention to this level each day as you complete tasks around the farm, and in Pelican Town.
   </shortdesc>
   <conbody>
     <p>
@@ -111,6 +112,7 @@ Any time you use a tool (with the exceptions of scythes and pans), engage in com
     </section>
     <section>
       <title>Increasing Maximum Energy</title>
+      <!-- Resolve these indentation issues throughout the model -->
     <p>
       You can permanently increase your maximum energy by 34 points each time you eat a Stardrop. Eating every available Stardrop in the game will permanently increase your energy to 508. 
     </p>
