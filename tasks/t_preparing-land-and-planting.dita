@@ -3,7 +3,7 @@
 <task id="t_preparing-land-and-planting-seeds">
   <title>Preparing the Land and Planting Seeds</title>
   <shortdesc>
-Once you have acquired your seeds, you will need to prepare the land for planting to grow the crops.
+    Once you have acquired your seeds, you will need to prepare the land for planting to grow the crops.
   </shortdesc>
   <taskbody>
     <prereq>
@@ -62,8 +62,8 @@ Once you have acquired your seeds, you will need to prepare the land for plantin
         <stepresult>Scatter seeds should appear on the tilled dirt, and you should no longer be able to plant on top of those seeds.</stepresult>
       </step>
       <step>
+        <note type="note">You will need to water your crops after planting in order for that day to count towards the total grow time.</note>
         <cmd>Repeat until you have planted all your seeds.</cmd>
-        <info>FYI: You will need to water your crops after planting in order for that day to count towards the total grow time.</info>
       </step>
     </steps>
   </taskbody>

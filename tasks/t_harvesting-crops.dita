@@ -3,7 +3,7 @@
 <task id="t_harvesting-and-selling-crops">
   <title>Harvesting and Selling Crops</title>
   <shortdesc>
-  After planting and sucessfully maintaing your crops you will be able to harvest the fully grown plant. These plants can then be sold to increase your farm's income, gifted to villagers, or use in recipes to create other goods.
+     After planting and sucessfully maintaing your crops you will be able to harvest the fully grown plant. These plants can then be sold to increase your farm's income, gifted to villagers, or use in recipes to create other goods.
   </shortdesc>
   <taskbody>
     <prereq>Crops can only be harvested once they are finished growing. You will know if a plant is finished growing if you hover over it and a green plus appears on your cursor.</prereq>
@@ -40,7 +40,7 @@
         <stepresult>You should be brought to a screen that resembles your inventory with an extra box on top of the existing rows.</stepresult>
       </step>
       <step>
-        <note><b>FYI:</b>Once an item has been sold it can not be reclaimed.</note>
+        <note type="note">Once an item has been sold it can not be reclaimed.</note>
         <cmd>Right click the crops in your inventory to sell them.</cmd>
         <stepresult>The full stack of crops should popuate in the selling window, and a thudding sound effect should play.</stepresult>
       </step>

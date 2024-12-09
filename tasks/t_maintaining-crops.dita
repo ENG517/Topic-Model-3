@@ -3,11 +3,14 @@
 <task id="t_maintaining-crops">
   <title>Watering Planted Crops</title>
   <shortdesc>
-In order for your crops to grow, they must be watered on a daily basis until they are ready to harvest. If you miss a day of watering, your crops will not die, but they also will not progress to the next stage of growth.
+    In order for your crops to grow, they must be watered on a daily basis until they are ready to harvest. If you miss a day of watering, your crops will not die, but they also will not progress to the next stage of growth.
   </shortdesc>
   <taskbody>
     <prereq>You will need a watering can, which was provided at the start of the game, to water your crops.</prereq>
-    <context><b>FYI:</b>You do not need to water your crops on days where it is raining. <p audience="expert"> By crafting and using sprinklers your plants will be water automatically each day. </p></context>
+    <context>
+    <note type="note">You do not need to water your crops on days where it is raining.</note> 
+    <p audience="expert"> By crafting and using sprinklers your plants will be water automatically each day.</p>
+    </context>
     <steps>
       <stepsection>Filling Watering Can</stepsection>
       <step audience="novice">
@@ -18,7 +21,7 @@ In order for your crops to grow, they must be watered on a daily basis until the
       </step>
       <step>
         <cmd>Left click to fill the can with water.</cmd>
-        <tutorialinfo> <b>FYI:</b>You do not need to hold down to fill the can. One click should fill it all the way.</tutorialinfo>
+        <tutorialinfo>You do not need to hold down to fill the can. One click should fill it all the way.</tutorialinfo>
         <stepresult>The fill bar on the watering can icon in your inventory should return to the top, and a slurping sound effect will play.</stepresult>
       </step>
       <stepsection>Watering Crops</stepsection>
