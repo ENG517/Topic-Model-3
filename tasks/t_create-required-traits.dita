@@ -11,35 +11,24 @@ The player cannot proceed with the game until they have chosen their required tr
     <cmd>Launch Stardew Valley, and click New on the bottom-left corner. You will be brought to the character and farm creation page.</cmd>
   </step>
   <step>
-    <!-- You can use the note element in steps, but our Redhat tool tells us it should only be used before the command. Check out the note element and its type attribute: https://www.oxygenxml.com/dita/1.3/specs/langRef/base/note.html?hl=note -->
-    <note type="important">
-      You cannot change your character's name.
-    </note>
-    <!-- All UI controls should be contained by uicontrol. In this case, Name. -->
-    <cmd>
-      Enter your character's name into the "Name" field.
-    </cmd>
-    <stepxmp><b>FYI:</b> Alex is an example name, the default is blank.</stepxmp>
-    <!-- <info>
-      <b>Warning:</b>You cannot change your character's name.
-    </info> -->
-    <!-- <info><b>FYI:</b> Alex is an example name, the default is blank.</info> -->
+    <note type="note">Alex is an example name, the default is blank.</note>
+    <note type="warning">You cannot change your character's name.</note>
+    <cmd>Enter your character's name into the "Name" field.</cmd>
   </step>
-  <step>
+    <note type="note">Daisy Day is an example farm name, the default is blank.</note>
     <cmd>Type the name you want for your farm into the "Farm Name" field.</cmd>
-    <info><b>FYI:</b> Daisy Day is an example farm name, the default is blank.</info>
-  </step>
+  <//step>
   <step>
+    <note type="note">Apple pie is an example, the default favorite thing is blank.</note>
     <cmd>Add in something to serve as your favorite thing. Your favorite thing has no impact on game play, but is simply a way for you to add another level of personality to your character!</cmd>
-    <info><b>FYI:</b> Apple pie is an example, the default favorite thing is blank.</info>
   </step>
   <step>
     <cmd>Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.</cmd>
   </step>
   <step>
     <note audience="novice"> New players should select the standard farm for their first game.</note>
+    <note type="note">A red box will appear to indicate that your selection has gone through.</note>
     <cmd>To select a farm type, hover over the icons of each farm type for a general description of each farm type, click to select that type of farm.</cmd>
-    <info><b>FYI:</b> A red box will appear to indicate that your selection has gone through</info>
   </step>
 </steps>
   </taskbody>

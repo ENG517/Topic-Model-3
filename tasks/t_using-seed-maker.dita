@@ -12,11 +12,11 @@
       <cmd>Equip one or more of the crop you wish to turn into seeds.</cmd>
     </step>
     <step>
-      <note> If you have a stack of crops equipped all of them will be converted into seeds.</note>
+      <note type="tip">If you have a stack of crops equipped all of them will be converted into seeds.</note>
      <cmd>Right click to place them in the seed maker.</cmd>
     </step>
     <step>
-      <note>After a few moments a pop up will appear over the seed maker with an image of the crop seeds you just crafted. This means that all the seeds are ready to be collected.</note>
+      <note type="note">After a few moments a pop up will appear over the seed maker with an image of the crop seeds you just crafted. This means that all the seeds are ready to be collected.</note>
       <cmd>Left-click to collect finished seeds.</cmd>
     </step>
   </steps>
