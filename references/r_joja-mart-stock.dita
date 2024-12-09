@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_joja_mart_stock">
+  <title>Year Round Stock at JojaMart</title>
+  <shortdesc>
+    JojaMart offers seeds on a seasonal basis, but has a permanent stock of farming and Joja Brand items.
+  </shortdesc>
+  <refbody>
+    <section>
+      <title>Year Round Stock</title>
+      <ul>
+        <li>Auto-Petter (only if the membership is purchased)</li>
+        <li>Flooring (random each day)</li>
+        <li>Grass Starter</li>
+        <li>J. Cola Light</li>
+        <li>Joja Cola</li>
+        <li>Joja Furniture Catalogue</li>
+        <li>Joja and Random Wallpapers</li>
+        <li>Rice</li>
+        <li>Sugar</li>
+        <li>Wheat Flour</li>   
+      </ul>
+    </section>
+  </refbody>
+</reference>

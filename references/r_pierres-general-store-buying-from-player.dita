@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_pierres_general_store_buying_from_player">
+  <title>Pierre's Purchase List</title>
+  <shortdesc>
+    In addition to selling seeds and farming products, Pierre will also buy certain items from players.
+  </shortdesc>
+  <refbody>
+    <section>
+    <title>Items Pierre Will Buy:</title>
+      <ul>
+        <li>Animal products (milk, cheese, wool, etc.)</li>
+        <li>Artisan goods</li>
+        <li>Cooked dishes</li>
+        <li>Crops</li>
+        <li>Crop seeds</li>
+        <li>Foraged items</li>
+      </ul>
+    </section>
+  </refbody>
+</reference>

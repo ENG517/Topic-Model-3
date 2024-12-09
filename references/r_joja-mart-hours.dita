@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_joja_mart_hours">
+  <title>JojaMart Hours &#x26; Location</title>
+  <shortdesc>
+     JojaMart is a store owned by the player's previous employer the Joja Corporation. This store is the main competitor to Pierre's General Store.
+  </shortdesc>
+  <refbody>
+    <section>
+      <title>Hours</title>
+      <sl>
+        <sli><b>Shop &#x26; Building:</b> 9am to 11pm</sli>
+      </sl>
+      <note type="note">JojaMart permanently closes when player completes the Community Center.</note>
+    </section>
+    <section>
+      <title>Location</title>
+      <sl>
+        <sli>JojaMart is located directly north of the Blacksmith on the north east edge of Pelican Town.</sli>
+      </sl>
+    </section>
+</refbody>
+</reference>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_pierres_general_store_hours">
+  <title>Pierre's General Store Hours &#x26; Location</title>
+  <shortdesc>
+    Pierre's General Store (aka Pierre's) is a Pelican Town staple, owned and operated by Pierre himself. This small business is in direct competition with the corporate owned JojaMart.
+  </shortdesc>
+  <refbody>
+    <section>
+      <title>Hours</title>
+      <sl>
+        <sli><b>Shop:</b> 9am to 5pm (closed on Wednesday<b>*</b>)</sli>
+        <sli><b>Building:</b> 9am to 9pm</sli>
+        <sli><b>*</b>Once the community center has been restored, Pierre's will be open every day.</sli>
+      </sl>
+    </section>
+    <section>
+      <title>Location</title>
+      <sl>
+        <sli> Pierre's is located in the north of Town Square, next to the doctor's office.</sli>
+      </sl>
+    </section>
+  </refbody>
+</reference>

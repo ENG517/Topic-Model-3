@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_joja_mart_membership">
+  <title>JojaMart Membership</title>
+  <shortdesc>
+     Joja Mart offers a membership that will reduces their prices significantly, but also has a permanent impact on game play.
+  </shortdesc>
+  <conbody>
+    <p>
+      Players can purchase a JojaMart membership for for 5000g. Without a membership the prices at JojaMart are typically higher than Pierre's. However, with the member's only discount JojaMart becomes the least expensive option.
+    </p>
+    <note type ="warning">
+      Purchasing the JojaMart Membership will remove the option to complete the Community Center achievements. However, the gifts that completing the center would unlock will be purchased. Prices range from 15,000g to 40,000g.
+    </note>
+  </conbody>
+</concept>
