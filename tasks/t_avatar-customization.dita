@@ -19,7 +19,7 @@
         <cmd>Click the arrows to flip through all set appearance options for Skin Color, Hair Style, Shirt, Pants and Accents.</cmd>
       </step>
       <step>
-        <note type="tip">It's best to think of the color selection process like mixing paint with set amounts of paint. First you pick the base color, then you can mix in white and/or black to change the shade. The number next to the color selection slider shows the base you have selected. The number next to the other two displays the percentage of base color in the final shade</note>
+        <note type="tip">It's best to think of the color selection process like mixing paint with set amounts of paint. First you pick the base color, then you can mix in white and/or black to change the shade. The number next to the color selection slider shows the base you have selected. The number next to the other two displays the percentage of base color in the final shade. </note>
         <cmd>Select the color of your avatar's eyes, shirt and pants using hue, lightness and darkness sliders.</cmd>
         <substeps>
           <substep>
