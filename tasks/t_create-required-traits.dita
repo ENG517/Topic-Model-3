@@ -18,12 +18,12 @@
       <step>
         <note type="note">Daisy Day is an example farm name, the default is blank.</note>
         <cmd>Type the name you want for your farm into the "Farm Name" field.</cmd>
-        <stepxmp><image href="../assets\screenshots\farm-name-entered.png"/> </stepxmp>
+        <stepxmp><image href="../assets/screenshots/farm-name-entered.png"/> </stepxmp>
       </step>
       <step>
         <note type="note">Apple pie is an example, the default favorite thing is blank.</note>
         <cmd>Add in something to serve as your favorite thing. Your favorite thing has no impact on game play, but is simply a way for you to add another level of personality to your character!</cmd>
-        <stepxmp><image href="../assets\screenshots\favorite-thing-entered.png"/></stepxmp>
+        <stepxmp><image href="../assets/screenshots/favorite-thing-entered.png"/></stepxmp>
       </step>
       <step>
         <cmd>Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.</cmd>
