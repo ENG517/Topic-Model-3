@@ -60,10 +60,10 @@ colors:
 fonts:
   families:
     copy: 'Sawarabi Gothic, Arial'
-    heading1: 'Jersey 10 Charted Regular, Times New Roman'
-    otherheadings: 'Jersey 20 Regular, Times New Roman'
-    display: 'Press Start 2p Regular, Impact'
-    monospaced: 'Fantasque Sans Mono, Courier New, Courier'
+    heading1: 'Jersey 10 Charted, Times New Roman'
+    otherheadings: 'Jersey 20, Times New Roman'
+    display: 'Press Start 2p, Impact'
+    monospaced: 'Courier New, Courier'
   sizing:
     title: 40pt
     h1: 38pt
