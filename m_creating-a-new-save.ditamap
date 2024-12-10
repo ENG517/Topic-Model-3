@@ -3,7 +3,7 @@
 <map id="m_creating_a_new_save">
   <title>Creating a New Save in Stardew Valley</title>
 
-  <topicref href="concepts/c_intro-to-new-saves.dita"  type="concept">
+  <topicref href="tasks\t_create-a-new-save.dita"  type="task">
     <topicmeta>
       <navtitle>Introduction</navtitle>
     </topicmeta>
