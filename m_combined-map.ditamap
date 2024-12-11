@@ -5,7 +5,7 @@
   <topicref href="c_welcome.dita" type="concept" toc="no">
   </topicref>
  
-  <topicref href="concepts/c_intro-to-new-saves.dita"  type="concept">
+  <topicref href="tasks\t_create-a-new-save.dita"  type="task">
     <topicmeta>
       <navtitle>Creating a New Save in Stardew Valley</navtitle>
     </topicmeta>

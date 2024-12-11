@@ -45,12 +45,12 @@
 
         Relaxing in the spa will increase your energy by 1 for every 100ms you stay in the pool without moving.
 
-        Resting in bed, in multiplayer only, will increasee your energy by 1 every 500ms.
+        Resting in bed, in multiplayer only, will increase your energy by 1 every 500ms.
       </p>
     </section>
     <section>
       <title>Sleeping</title>
-      <p>Sleeping will restore your energy for the next day. Going to bed at or before 12:00am restores energy to its maximum amount. There is a late to bed penalty</p>
+      <p>Sleeping will restore your energy for the next day. Going to bed at or before 12:00am restores energy to its maximum amount. If you go to sleep after 12:00am, there is a late to bed penalty that reduces your energy for the next day.</p>
       <p><b>Late to Bed Penalty</b></p>
       <simpletable>
         <sthead>
@@ -114,7 +114,7 @@
       <title>Increasing Maximum Energy</title>
       <!-- Resolve these indentation issues throughout the model -->
     <p>
-      You can permanently increase your maximum energy by 34 points each time you eat a Stardrop. Eating every available Stardrop in the game will permanently increase your energy to 508. 
+      You can permanently increase your maximum energy by 34 points each time you eat a Stardrop. Eating every available Stardrop in the game will permanently increase your energy to 508 points. 
     </p>
     <p>
       Temporary increases of maximum energy are also possible, if food that supports energy buffs are consumed. Two buffs can be active at a time if one comes from consuming a food, and the other from consuming a drink. The largest possible temporary value of maximum energy is 588.

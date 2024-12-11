@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_create_a_new_save">
+  <title>Creating a New Save in Stardew Valley</title>
+  <shortdesc>
+    To replay, or begin playing, Stardew Valley, you need to start a new save.
+  </shortdesc>
+  <taskbody>
+    <prereq>
+      To create a new save in Stardew Valley you must first:
+      <ul>
+        <li>Have Steam installed and be signed in</li>
+        <li>Have Stardew Valley in your library (meaning you were gifted the game, or have purchased it)</li>
+        <li>Have Version 1.6 of Stardew Valley installed</li>
+      </ul>
+    </prereq>
+    <context>To create a new save you will:</context>
+    <steps>
+      <step>
+        <cmd>Create required character traits</cmd>
+        <substeps>
+          <substep>
+            <cmd>Name</cmd>
+          </substep>
+          <substep>
+            <cmd>Farm Name</cmd>
+          </substep>
+          <substep>
+            <cmd>Favorite Things</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Select a Farm Type</cmd>
+      </step>
+      <step>
+        <cmd>Design your avatar.</cmd>
+      </step>
+      <step>
+        <cmd>Once you have made your selections you will be able to click the <uicontrol>OK</uicontrol> button to continune with the game!</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
