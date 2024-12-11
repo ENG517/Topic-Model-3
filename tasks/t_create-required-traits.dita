@@ -3,34 +3,36 @@
 <task id="t_create_required_traits">
   <title>How to Choose Required Traits</title>
   <shortdesc>
-    sThe player cannot proceed with the game until they have chosen their required traits. These are the player's name, farm name, favorite thing and farm type. Once the game is started, these cannot be changed until later in the game.
+    The player cannot proceed with the game until they have chosen their required traits. These are the player's name, farm name, favorite thing and farm type. 
   </shortdesc>
   <taskbody>
-<steps>
-  <step>
-    <cmd>Launch Stardew Valley, and click <uicontrol>New</uicontrol> on the bottom-left corner. You will be brought to the character and farm creation page.</cmd>
-  </step>
-  <step>
-    <note type="note">Alex is an example name, the default is blank.</note>
-    <note type="warning">You cannot change your character's name.</note>
-    <cmd>Enter your character's name into the "Name" field.</cmd>
-  </step>
-  <step>
-    <note type="note">Daisy Day is an example farm name, the default is blank.</note>
-    <cmd>Type the name you want for your farm into the "Farm Name" field.</cmd>
-  </step>
-  <step>
-    <note type="note">Apple pie is an example, the default favorite thing is blank.</note>
-    <cmd>Add in something to serve as your favorite thing. Your favorite thing has no impact on game play, but is simply a way for you to add another level of personality to your character!</cmd>
-  </step>
-  <step>
-    <cmd>Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.</cmd>
-  </step>
-  <step>
-    <note audience="novice"> New players should select the standard farm for their first game.</note>
-    <note type="note">A red box will appear to indicate that your selection has gone through.</note>
-    <cmd>To select a farm type, hover over the icons of each farm type for a general description of each farm type, click to select that type of farm.</cmd>
-  </step>
-</steps>
+    <steps>
+      <step>
+        <cmd>Launch Stardew Valley, and click <uicontrol>New</uicontrol> on the bottom-left corner. You will be brought to the character and farm creation page.</cmd>
+      </step>
+      <step>
+        <note type="note">Alex is an example name, the default is blank.</note>
+        <cmd>Enter your character's name into the "Name" field.</cmd>
+        <stepxmp><image href="../assets/screenshots/name-entered.png"/></stepxmp>
+      </step>
+      <step>
+        <note type="note">Daisy Day is an example farm name, the default is blank.</note>
+        <cmd>Type the name you want for your farm into the "Farm Name" field.</cmd>
+        <stepxmp><image href="../assets/screenshots/farm-name-entered.png"/> </stepxmp>
+      </step>
+      <step>
+        <note type="note">Apple pie is an example, the default favorite thing is blank.</note>
+        <cmd>Add in something to serve as your favorite thing. Your favorite thing has no impact on game play, but is simply a way for you to add another level of personality to your character!</cmd>
+        <stepxmp><image href="../assets/screenshots/favorite-thing-entered.png"/></stepxmp>
+      </step>
+      <step>
+        <cmd>Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.</cmd>
+      </step>
+      <step>
+        <note audience="novice"> New players should select the standard farm for their first game.</note>
+        <note type="note">A red box will appear to indicate that your selection has gone through.</note>
+        <cmd>To select a farm type, hover over the icons of each farm type for a general description of each farm type, click to select that type of farm.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>

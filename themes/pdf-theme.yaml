@@ -1,0 +1,231 @@
+##########################################################
+# PDF THEME
+ 
+# Main Docs: https://www.dita-ot.org/4.2/topics/pdf-themes
+# Styles: https://www.dita-ot.org/4.2/resources/theme/styles
+# Variables: https://www.dita-ot.org/dev/resources/theme/variables
+# Sample: https://www.dita-ot.org/dev/topics/sample-pdf-theme.html
+
+# Full XSL Specifications
+# (eXtensible Stylesheet Language)
+# https://www.w3.org/TR/xsl/
+
+##########################################################
+
+#########
+# COLORS
+#########
+colors:
+  primary: 
+    main: '#EBAA1E' #Harvest Gold
+    s1: '#BC8510'
+    s2: '#EFB843'
+    s3: '#F4CE7C'
+    s4: '#F8E3B4'
+    s5: '#FDF8EC'
+  secondary: 
+    main: '#719461' #Green
+    s1: '#384A30'
+    s2: '#384A30'
+    s3: '#9CB690'
+    s4: '#BDCF85'
+    s5: '#DEE7DA'
+  accent1:
+    main: '#632E18' #Brown
+    s1: '#833E20'
+    s2: '#A44D28'
+    s3: '#DB8D6B'
+    s4: '#E7B39C'
+    s5: '#F3D9CE'
+  accent2:
+    main: '#6D9AEE' #Sky Blue
+    s1: '#7FA7F0'
+    s2: '#A4C0F4'
+    s3: '#B6CDF6'
+    s4: '#C8D9F9'
+    s5: '#EDF2FD'
+  neutrals: # No need to change neutrals
+    s1: '#f2f2f2'
+    s2: '#e8e9e9'
+    s3: '#d1d3d4'
+    s4: '#babdbf'
+    s5: '#808488'
+    s6: '#666a6d'
+    s7: '#4d5052'
+    s8: '#212122'
+
+########
+# FONTS
+########
+fonts:
+  families:
+    copy: 'Sawarabi Gothic, Arial'
+    heading1: 'Jersey 10 Charted, Times New Roman'
+    otherheadings: 'Jersey 20, Times New Roman'
+    display: 'Press Start 2p, Impact'
+    monospaced: 'Courier New, Courier'
+  sizing:
+    title: 40pt
+    h1: 38pt
+    h2: 27pt
+    h3: 24pt
+    h4: 16pt
+    copy: 12pt
+    uicontrol: 12pt
+    small: 10pt
+
+###############
+# LINE SPACING
+###############
+spacing:
+  lines:
+    xxlarge: 60pt
+    xlarge: 40.5pt
+    large: 36pt
+    medium: 18pt
+    small: 15pt
+    xsmall: 12pt
+
+################
+# PAGE SETTINGS
+# Docs: https://www.dita-ot.org/4.2/resources/theme/page-settings
+################
+page:
+  size: Letter
+  mirror-margins: true
+
+##################
+# MAIN DOC STYLES
+##################
+style:
+  # New Defaults for Text in Body Elements
+  body:
+    font-family: $fonts-families-copy
+    font-size: $fonts-sizing-copy
+    color: $colors-accent1-main
+  # Cover Page Title
+  cover-title:
+    color: $colors-primary-s1
+    font-family: $fonts-families-display
+    font-size: $fonts-sizing-title
+    #text-transform: uppercase
+  # Heading Styles
+  h1:
+    font-family: $fonts-families-heading1
+    font-size: $fonts-sizing-h1
+    letter-spacing: 0.5pt
+    color: $colors-primary-main
+    # Add numbering in toc, headers, footers, when applicable
+    title-numbering: true
+    break-before: page
+  h2:
+    font-family: $fonts-families-otherheadings
+    font-size: $fonts-sizing-h2
+    border-after: solid 1pt $colors-secondary-s1
+    color: $colors-secondary-main
+    # Add numbering in toc, headers, footers, when applicable
+    title-numbering: true
+  h3:
+    font-family: $fonts-families-otherheadings
+    font-size: $fonts-sizing-h3
+    color: $colors-secondary-s2
+  h4:
+    font-family: $fonts-families-otherheadings
+    font-size: $fonts-sizing-h4
+    color: $colors-accent2-main
+  
+  li:
+    margin-bottom: $spacing-lines-xsmall
+    font-family: $fonts-families-copy
+    label:
+      color: $colors-primary-s1
+  step:
+    keep-together.within-page: always
+  substeps:
+    margin-top: $spacing-lines-small
+    margin-bottom: $spacing-lines-large
+  link:
+    font-family: $fonts-families-copy
+    color: $colors-secondary-s5
+  shortdesc:
+    margin-top: $spacing-lines-medium
+    margin-bottom: $spacing-lines-medium
+  prereq:
+    margin-top: $spacing-lines-xlarge
+    margin-bottom: $spacing-lines-xlarge
+  note:
+    background-color: $colors-accent2-s3
+    padding-before: $spacing-lines-small
+    padding-after: $spacing-lines-small
+    padding-start: $spacing-lines-small
+    padding-end: $spacing-lines-small
+    margin-bottom: $spacing-lines-medium
+    keep-together.within-page: always
+    tip:
+      background-color: $colors-secondary-s4
+    warning:
+      background-color: $colors-accent1-s3
+  stepresult:
+    padding-before: 6pt
+    padding-after: 6pt
+    margin-bottom: 12pt
+    keep-together.within-page: always
+  option:
+    color: $colors-secondary-main
+    font-family: $fonts-families-monospaced
+  table:
+    caption:
+      color: $colors-secondary-main
+    font-family: $fonts-families-copy
+    font-size: $fonts-sizing-small
+    header:
+      background-color: $colors-primary-s3
+  menucascade:
+    font-style: italic
+    font-size: $fonts-sizing-uicontrol
+  uicontrol:
+    font-family: $fonts-families-monospaced
+    background-color: $colors-secondary-s4
+    color: $colors-accent1-main
+    font-size: $fonts-sizing-uicontrol
+
+
+###################
+# DOC HEADER SETUP
+###################
+header:
+  color: $colors-primary-main
+  display-align: before
+  end-indent: 10mm
+  font-family: $fonts-families-otherheadings
+  font-size: $fonts-sizing-small
+  font-weight: light
+  padding-after: $spacing-lines-small
+  padding-before: $spacing-lines-medium
+  start-indent: 10mm
+  odd:
+    content: '{chapter}'
+    text-align: end
+  even:
+    content: '{title}'
+    text-align: start
+
+###################
+# DOC FOOTER SETUP
+###################
+footer:
+  color: $colors-primary-main
+  end-indent: 10mm
+  font-family: $fonts-families-otherheadings
+  font-size: $fonts-sizing-small
+  padding-after: $spacing-lines-small
+  padding-before: $spacing-lines-medium
+  start-indent: 10mm
+  odd:
+    content: '{folio}'
+    font-weight: light
+    text-align: end
+  even:
+    content: '{folio}'
+    font-weight: light
+    text-align: start
